@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog2/
 ---
 
 ![](https://www.laserfiche.com/wp-content/uploads/2018/01/RPA_Graphics_Infographic_F.png)
