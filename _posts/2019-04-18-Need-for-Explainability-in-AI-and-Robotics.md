@@ -96,7 +96,7 @@ algorithms [3]. Google decided to publish these principles to clarify in which
 areas the implementation of AI can become dangerous and to confirm its interest
 in producing AI self-explainable algorithms.
 
-![](XAI.png)
+![](https://cdn-images-1.medium.com/max/2200/1*K2mq3O0Z9LUFZehSAV27ew.png)
 <br />
 <span class="figcaption_hack">Figure 2 — Explainable AI Revolution (Image Reproduced from [4])</span>
 
