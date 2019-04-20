@@ -4,7 +4,7 @@ name: Pier Paolo Ippolito
 author: Pier Paolo Ippolito
 description: Software Engineer - MEng Electronic Engineering with Artificial Intelligence - University of Southampton
 
-baseurl: "https://pierpaolo28.github.io/blog/"
+# baseurl: "https://pierpaolo28.github.io/blog/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
