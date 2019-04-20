@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/2200/1*kvjh_jOKaq5oqlOxjkxC8g.png)
