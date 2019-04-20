@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Software Engineer
+### AI enthusiast, fluent in Python, UIPATH and Web Development
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a third-year student at the University of Southampton studying Electronic Engineering. I have a strong interest in AI advancements and machine learning applications (such as financial markets and medicine). Outside my degree course, I have also attended occasional courses on accounting and finance to expand my personal knowledge and took part in volunteering experiences.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
