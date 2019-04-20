@@ -81,6 +81,7 @@ systems vision. One problematic area though of DL algorithms is that currently,
 we are not able to fully track the decision making process the algorithm makes
 when having to make a decision (therefore the needs for Explainable AI).
 
+![](https://cdn-images-1.medium.com/max/2200/1*kvjh_jOKaq5oqlOxjkxC8g.png)
 <span class="figcaption_hack">Figure 1 — Relationship between AI-ML-DL (Image Reproduced from [2])</span>
 
 ### Ethics
@@ -93,6 +94,7 @@ algorithms [3]. Google decided to publish these principles to clarify in which
 areas the implementation of AI can become dangerous and to confirm its interest
 in producing AI self-explainable algorithms.
 
+![](https://cdn-images-1.medium.com/max/2200/1*kvjh_jOKaq5oqlOxjkxC8g.png)
 <span class="figcaption_hack">Figure 2 — Explainable AI Revolution (Image Reproduced from [4])</span>
 
 During the last few years, the first few XAI models have started being
