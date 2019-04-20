@@ -4,7 +4,7 @@ layout: post
 
 ![](https://cdn-images-1.medium.com/max/2200/1*kvjh_jOKaq5oqlOxjkxC8g.png)
 <span class="figcaption_hack">
-
+<br />
 (Source =[https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/](https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/))</span>
 
 # Need for Explainability in AI and Robotics
@@ -83,6 +83,7 @@ we are not able to fully track the decision making process the algorithm makes
 when having to make a decision (therefore the needs for Explainable AI).
 
 ![](https://cdn-images-1.medium.com/max/2200/1*Vg9T26o9T59fAjyVi6BKQQ.jpeg)
+<br />
 <span class="figcaption_hack">Figure 1 — Relationship between AI-ML-DL (Image Reproduced from [2])</span>
 
 ### Ethics
@@ -96,6 +97,7 @@ areas the implementation of AI can become dangerous and to confirm its interest
 in producing AI self-explainable algorithms.
 
 ![](https://cdn-images-1.medium.com/max/2200/1*K2mq3O0Z9LUFZehSAV27ew.png)
+<br />
 <span class="figcaption_hack">Figure 2 — Explainable AI Revolution (Image Reproduced from [4])</span>
 
 During the last few years, the first few XAI models have started being
