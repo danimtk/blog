@@ -3,8 +3,8 @@ layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/2200/1*kvjh_jOKaq5oqlOxjkxC8g.png)
-<span class="figcaption_hack">(Source =
-[https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/](https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/))</span>
+<span class="figcaption_hack">
+(Source =[https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/](https://www.datanami.com/2018/05/30/opening-up-black-boxes-with-explainable-ai/))</span>
 
 # Need for Explainability in AI and Robotics
 
@@ -128,15 +128,6 @@ January 2019
 Medium. (Accessed:
 [https://medium.freecodecamp.org/an-introduction-to-explainable-ai-and-why-we-need-it-a326417dd000](https://medium.freecodecamp.org/an-introduction-to-explainable-ai-and-why-we-need-it-a326417dd000))
 January 2019
-
-* [Artificial
-Intelligence](https://towardsdatascience.com/tagged/artificial-intelligence?source=post)
-* [Data Science](https://towardsdatascience.com/tagged/data-science?source=post)
-* [Robotics](https://towardsdatascience.com/tagged/robotics?source=post)
-* [Computer
-Science](https://towardsdatascience.com/tagged/computer-science?source=post)
-* [Software
-Development](https://towardsdatascience.com/tagged/software-development?source=post)
 
 ### [Pier Paolo Ippolito](https://towardsdatascience.com/@pierpaoloippolito28)
 
