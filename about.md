@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![](https://cdn-images-1.medium.com/fit/c/80/80/0*juYh9_bVEJB6Q18x.jpg)
+<span class="figcaption_hack">
+
 ### Software Engineer
 ### AI enthusiast, fluent in Python, UIPATH and Web Development
 
