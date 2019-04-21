@@ -3,9 +3,8 @@ layout: post
 title: About
 permalink: /about/
 ---
-
-![](https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/c1.0.1437.1437a/22792160_1385248258239263_7670735862034380592_o.jpg?_nc_cat=100&_nc_ht=scontent-lhr3-1.xx&oh=b606f68c343db93948f52ec8011b0f9c&oe=5D298AC2 =250x250)
-<span class="figcaption_hack">
+  
+<img src="https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/c1.0.1437.1437a/22792160_1385248258239263_7670735862034380592_o.jpg?_nc_cat=100&_nc_ht=scontent-lhr3-1.xx&oh=b606f68c343db93948f52ec8011b0f9c&oe=5D298AC2" width="250">
 
 ### Software Engineer
 ### AI enthusiast, fluent in Python, UIPATH and Web Development
