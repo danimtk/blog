@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://cdn-images-1.medium.com/fit/c/80/80/0*juYh9_bVEJB6Q18x.jpg)
+![](https://www.facebook.com/photo.php?fbid=1385248258239263&set=a.102559456508156&type=3&source=11&referrer_profile_id=100002623056588)
 <span class="figcaption_hack">
 
 ### Software Engineer
