@@ -65,7 +65,12 @@ article in the category, the name, price and link in a CSV file. Finally, this
 file can be analysed (using python ML algorithms) to see how prices change with
 time and compare products with those of different suppliers.
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/embed/QSTNb_sDbCo?rel=0)
+<p align="center">
+<div class="video-responsive">
+  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/embed/QSTNb_sDbCo?rel=0" 
+          frameborder="0" allowfullscreen>
+  </iframe></p>
+</div>
 <span class="figcaption_hack">Video 1: Amazon Data Scraping Example</span>
 
 UIPath is currently working in its beta version to integrate Computer Vision as
