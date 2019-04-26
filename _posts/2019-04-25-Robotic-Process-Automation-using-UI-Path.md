@@ -116,13 +116,6 @@ of my contacts details:
 
 [Linkedin](https://uk.linkedin.com/in/pier-paolo-ippolito-202917146)
 
-* [Data Science](https://medium.com/tag/data-science?source=post)
-* [Artificial
-Intelligence](https://medium.com/tag/artificial-intelligence?source=post)
-* [Robotics Automation](https://medium.com/tag/robotics-automation?source=post)
-* [Robotics](https://medium.com/tag/robotics?source=post)
-* [Programming](https://medium.com/tag/programming?source=post)
-
 ### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
 
 MEng Electronic Engineering with Artificial Intelligence — University of
