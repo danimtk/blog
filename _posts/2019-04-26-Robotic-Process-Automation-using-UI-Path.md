@@ -65,14 +65,13 @@ article in the category, the name, price and link in a CSV file. Finally, this
 file can be analysed (using python ML algorithms) to see how prices change with
 time and compare products with those of different suppliers.
 
-<p align="center">
-<div class="video-responsive">
+<div>
   <iframe align="middle" width="650" height="500" src="https://www.youtube.com/embed/QSTNb_sDbCo?rel=0" 
           frameborder="0" allowfullscreen>
-  </iframe></p>
+  </iframe>
 </div>
 <span class="figcaption_hack">Video 1: Amazon Data Scraping Example</span>
-
+<br><br>
 UIPath is currently working in its beta version to integrate Computer Vision as
 part of its workflow recording application. This could potentially allow for
 better integration of UIPath in Virtual Environments making possible for robots
