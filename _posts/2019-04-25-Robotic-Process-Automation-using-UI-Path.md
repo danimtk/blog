@@ -51,6 +51,7 @@ done by using control flow commands such as:
 * Adding delays.
 * Breaking down workflow execution using the debug mode.
 
+![](https://cdn-images-1.medium.com/max/2600/1*uj78kbtp3vV-95gbylptxg.png)
 <span class="figcaption_hack">Figure 1 : UIPath Interface</span>
 
 Another particular utility of UIPath is its ability to work with structured
@@ -64,6 +65,7 @@ article in the category, the name, price and link in a CSV file. Finally, this
 file can be analysed (using python ML algorithms) to see how prices change with
 time and compare products with those of different suppliers.
 
+![](https://www.youtube.com/embed/QSTNb_sDbCo?rel=0)
 <span class="figcaption_hack">Video 1: Amazon Data Scraping Example</span>
 
 UIPath is currently working in its beta version to integrate Computer Vision as
