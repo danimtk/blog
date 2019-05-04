@@ -4,8 +4,8 @@ permalink: /blog3/
 ---
 
 ![](https://cdn-images-1.medium.com/max/2600/1*RTrPxt84Jh1FellBD_IvCA.jpeg)
-<span class="figcaption_hack">Reproduced from:
-[https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy](https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy)</span>
+<span class="figcaption_hack">(Reproduced from:
+[https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy](https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy))</span>
 
 # Introduction to Solar Cells
 
@@ -62,7 +62,8 @@ semiconductor band gap. Free electrons are able to move freely throughout the
 material.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*cVcvAyIKBUzmj0BWdqvIHA.png)
-<span class="figcaption_hack">Figure 1: Semiconductors energy bands. Reproduced from: [1]</span>
+<span class="figcaption_hack"> <br>
+  Figure 1: Semiconductors energy bands. Reproduced from: [1]</span>
 
 ### Why solar cells?
 
@@ -108,7 +109,8 @@ cells will instead aim in the future to be more efficient than the first
 generation (PCE > 20%) while keeping affordable costs.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*t-NpGNSn8nfGsQinH9cqvw.jpeg)
-<span class="figcaption_hack">Figure 5: Solar cells Generations. Reproduced from: [3]</span>
+<span class="figcaption_hack"> <br>
+  Figure 5: Solar cells Generations. Reproduced from: [3]</span>
 
 ### Tandem Solar Cells
 
@@ -122,7 +124,8 @@ while photons with energies greater than the bandgap can be, but the extra
 energy gets lost as heat [5].
 
 ![](https://cdn-images-1.medium.com/max/1500/1*2xQLSlIY05XTyKGiM3c63A.jpeg)
-<span class="figcaption_hack">Figure 6= Tandem solar cells are able to cover more spectrum than single
+<span class="figcaption_hack"> <br>
+  Figure 6= Tandem solar cells are able to cover more spectrum than single
 junction solar cells (Increasing EQE). Reproduced from: [6]</span>
 
 Nowadays commercially available multi-junction (MJ) cells can achieve around 30%
@@ -140,7 +143,8 @@ junction, Indium gallium arsenide (InGaAs) for the middle junction and Germanium
 (Ge) for the bottom junction.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*ZGEz9821aolZFaS0X54GpQ.jpeg)
-<span class="figcaption_hack">Figure 7 = Different multi-junction solar cells made of III-V semiconductor
+<span class="figcaption_hack"> <br>
+  Figure 7 = Different multi-junction solar cells made of III-V semiconductor
 materials. Reproduced from: [7]</span>
 
 In multi-junction solar cells, the multiple layers are formed by stacking
