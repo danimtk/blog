@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /blog2/
+permalink: /blog3/
 ---
 
 ![](https://cdn-images-1.medium.com/max/2600/1*RTrPxt84Jh1FellBD_IvCA.jpeg)
