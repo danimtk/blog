@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /blog2/
+---
+
 ![](https://cdn-images-1.medium.com/max/2600/1*RTrPxt84Jh1FellBD_IvCA.jpeg)
 <span class="figcaption_hack">Reproduced from:
 [https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy](https://www.vox.com/energy-and-environment/2016/10/28/13427822/americans-overestimate-renewable-energy)</span>
