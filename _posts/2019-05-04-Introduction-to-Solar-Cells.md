@@ -170,8 +170,7 @@ conversion efficiency [9].
 ### Contacts
 
 If you have any questions or any suggestions on what should be my next article
-about, please just leave a comment below. In case you liked this article,
-leaving a clap would also be greatly appreciated!
+about, please just leave a comment.
 
 If you want to keep updated with my latest articles and projects, these are some
 of my contacts details:
