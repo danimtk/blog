@@ -95,22 +95,22 @@ contact returns them to the valence band.
 
 The Photovoltaic effect takes place if there is a small positive voltage across
 the junction (ie. are present extra electrons on the n-side and extra holes in
-the p-side). Commercially available solar cells currently have about 20% Power
-Conversion Energy (PCE).
+the p-side). Nowadays, the Power Conversion Efficiency (PCE) of commercially available 
+solar cells vary from a few % to above 30% depending on the technology.
 
-Solar cells can be divided into three main fabrication generations (Figure 5).
+Solar cells can be divided into three main fabrication generations (Figure 5, 2002).
 Screen printed contacts solar cells are a first generation solar cell type (PCE
 = 10–20%). Other examples of first-generation solar cells are Buried Contacts,
 Interdigitated back contact (IBC), Heterojunction with Intrinsic Layer (HIT) and
-Passivated Emitter Rear Locally Diffused (PERL). Second generation solar cells
-using thin films instead of silicon are usually less efficient (PCE = 5–10%)
-than their first generation counterparts but way cheaper. Third generation solar
-cells will instead aim in the future to be more efficient than the first
-generation (PCE > 20%) while keeping affordable costs.
+Passivated Emitter Rear Locally Diffused (PERL). Thanks to advancements, the prices 
+of first-generation solar cells have dropped considerably during the last few years. 
+Second generation solar cells using thin films can instead now reach over 20% of PCE. 
+Finally, third generation solar cells will aim in the future to be more efficient than 
+the first two generations (PCE > 20%) while keeping affordable costs.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*t-NpGNSn8nfGsQinH9cqvw.jpeg)
 <span class="figcaption_hack"> <br>
-  Figure 5: Solar cells Generations. Reproduced from: [3]</span>
+  Figure 5: Solar cells Generations — Projected trends in 2002. Reproduced from: [3]</span>
 
 ### Tandem Solar Cells
 
