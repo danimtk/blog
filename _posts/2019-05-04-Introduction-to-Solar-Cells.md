@@ -169,7 +169,7 @@ conversion efficiency [9].
 
 ### Contacts
 
-If you have any questions or any suggestions on what should be my next article
+In case you have any questions or any suggestions on what should be my next article
 about, please just leave a comment.
 
 If you want to keep updated with my latest articles and projects, these are some
