@@ -76,7 +76,7 @@ evolutionary distance. There are two main types of evolutionary trees:
 distance-based trees and sequence-based trees. Evolutionary trees are used to
 explain distances between different species.
 
-![](https://www.researchgate.net/profile/Michael_Horn5/publication/254004984/figure/fig1/AS:340880901853184@1458283748109/A-phylogenetic-tree-showing-evolutionary-relationships-between-five-groups-of-organisms_W640.jpg)
+![](https://www.researchgate.net/profile/Michael_Horn5/publication/254004984/figure/fig1/AS:340880901853184@1458283748109/A-phylogenetic-tree-showing-evolutionary-relationships-between-five-groups-of-organisms_W640.jpg) <br>
 <span class="figcaption_hack">Figure 2: Evolutionary Trees [3]</span>
 
 **Gene regulation networks** are formed thanks to the interaction of different
