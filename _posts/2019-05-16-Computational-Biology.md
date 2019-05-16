@@ -62,6 +62,7 @@ in which, depending on the probability of the state we are in, we emit a letter
 and then move to the next state. The next state can possibly be equal to the
 original one.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hmm_temporal_bayesian_net.svg/2880px-Hmm_temporal_bayesian_net.svg.png)
 <span class="figcaption_hack">Figure 1: Hidden Markov Model [2]</span>
 
 **Population genetics** tries to model evolution. To do so, it commonly makes
@@ -75,6 +76,7 @@ evolutionary distance. There are two main types of evolutionary trees:
 distance-based trees and sequence-based trees. Evolutionary trees are used to
 explain distances between different species.
 
+![](https://www.researchgate.net/profile/Michael_Horn5/publication/254004984/figure/fig1/AS:340880901853184@1458283748109/A-phylogenetic-tree-showing-evolutionary-relationships-between-five-groups-of-organisms_W640.jpg)
 <span class="figcaption_hack">Figure 2: Evolutionary Trees [3]</span>
 
 **Gene regulation networks** are formed thanks to the interaction of different
@@ -85,6 +87,7 @@ according to the nature of their interactions, the cell type is determined.
 behind gene regulation networks. The reaction rates are dependent on the
 concentration of the elements in the chemical equations.
 
+![](https://chem.libretexts.org/@api/deki/files/56451/CNX_Chem_04_01_rxn2.jpg?revision=1&size=bestfit&width=634&height=289)
 <span class="figcaption_hack">Figure 3: Chemical Equations [4]</span>
 
 ### Machine Learning for biological prediction
@@ -94,6 +97,7 @@ important (Figure 4). Currently, applications are genomics (to study an
 organism’s DNA sequence), proteomics (to better understand the structure and
 function of different proteins) and cancer detection.
 
+![](http://msb.embopress.org/content/msb/12/7/878/F1.large.jpg?width=800&height=600&carousel=1)
 <span class="figcaption_hack">Figure 4: Machine Learning workflow in Biological Data Analysis [5]</span>
 
 Researchers demonstrated that using Convolutional Neural Networks (CNN) and
