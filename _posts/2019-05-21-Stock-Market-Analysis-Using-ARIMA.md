@@ -80,6 +80,8 @@ analysis can be repeated for most of the other features.
     df = pd.read_csv("../input/Data/Stocks/msft.us.txt").fillna(0)
     df.head()
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*-jT9LGoPSMyfZckSaXAFvA.png) <br>
 <span class="figcaption_hack">Figure 1: Dataset Head</span>
 
 Before starting working on Time Series prediction, I decided to analyse the
@@ -91,6 +93,8 @@ good model to be applied to this type of data.
     lag_plot(df['Open'], lag=5)
     plt.title('Microsoft Autocorrelation plot')
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*_060j-0pvOXy2z-9zlqCMg.png) <br>
 <span class="figcaption_hack">Figure 2: Autocorrelation plot using a Lag of 5</span>
 
 Successively, I divided the data into a training and test set. Once done so, I
@@ -107,6 +111,8 @@ Series looks like (Figure 3).
     plt.xticks(np.arange(0,7982, 1300), df['Date'][0:7982:1300])
     plt.legend()
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*_JeRp7a41O4iybxcbQVeog.png) <br>
 <span class="figcaption_hack">Figure 3: Graphical Representation of Train/Test Split</span>
 
 In order to evaluate the ARIMA model, I decided to use two different error
@@ -120,6 +126,8 @@ therefore, had first to create this function on my own.
     def smape_kun(y_true, y_pred):
         return np.mean((np.abs(y_pred - y_true) * 200/ (np.abs(y_pred) +       np.abs(y_true))))
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*I3WbbaaUPe9Mn5WcUVEwwg.png) <br>
 <span class="figcaption_hack">Figure 4: SMAPE (Symmetric mean absolute percentage error) [2]</span>
 
 Afterwards, I created the ARIMA model to be used for this implementation. I
@@ -171,6 +179,8 @@ to visualize how did the model performed against the actual prices (Figure 5).
     plt.xticks(np.arange(0,7982, 1300), df['Date'][0:7982:1300])
     plt.legend()
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*7__Qhrsf8poNFUqIRCsNuQ.png) <br>
 <span class="figcaption_hack">Figure 5: Microsoft Price Prediction</span>
 
 Figure 6 provides instead a zoomed in version of Figure 5. From this can be
@@ -187,6 +197,8 @@ price seems to look like a “noisy” version of the actual price.
     plt.xticks(np.arange(6386,7982, 300), df['Date'][6386:7982:300])
     plt.legend()
 
+
+![](https://cdn-images-1.medium.com/max/2000/1*SonWVc8d4_4DEp5c84p8hQ.png) <br>
 <span class="figcaption_hack">Figure 6: Prediction vs Actual Price Comparison</span>
 
 This analysis using ARIMA lead overall to appreciable results. This model
