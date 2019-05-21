@@ -124,7 +124,7 @@ SMAPE is not currently supported in Scikit-learn as a loss function I,
 therefore, had first to create this function on my own.
 
     def smape_kun(y_true, y_pred):
-        return np.mean((np.abs(y_pred - y_true) * 200/ (np.abs(y_pred) +       np.abs(y_true))))
+        return np.mean((np.abs(y_pred - y_true) * 200/ (np.abs(y_pred) + np.abs(y_true))))
 
 
 ![](https://cdn-images-1.medium.com/max/2000/1*I3WbbaaUPe9Mn5WcUVEwwg.png) <br>
@@ -150,11 +150,9 @@ decided to set in this case p=5, d=1 and q=0 as the ARIMA parameters.
         obs = test_ar[t]
         history.append(obs)
     error = mean_squared_error(test_ar, predictions)
-    print('Testing Mean Squared Error: 
-    ' % error)
+    print('Testing Mean Squared Error: ' % error)
     error2 = smape_kun(test_ar, predictions)
-    print('Symmetric mean absolute percentage error: 
-    ' % error2)
+    print('Symmetric mean absolute percentage error: ' % error2)
 
 The loss results for this model are available below. According to the MSE, the
 model loss is quite low but for SMAPE is instead consistently higher. One of the
@@ -170,9 +168,10 @@ to visualize how did the model performed against the actual prices (Figure 5).
 
     plt.figure(figsize=(12,7))
     plt.plot(df['Open'], 'green', color='blue', label='Training Data')
-    plt.plot(test_data.index, predictions, color='green', marker='o', linestyle='dashed', 
-             label='Predicted Price')
-    plt.plot(test_data.index, test_data['Open'], color='red', label='Actual Price')
+    plt.plot(test_data.index, predictions, color='green', marker='o', 
+            linestyle='dashed', label='Predicted Price')
+    plt.plot(test_data.index, test_data['Open'], color='red', 
+            label='Actual Price')
     plt.title('Microsoft Prices Prediction')
     plt.xlabel('Dates')
     plt.ylabel('Prices')
@@ -188,8 +187,10 @@ noticed how the two curves closely follow each other. However, the predicted
 price seems to look like a “noisy” version of the actual price.
 
     plt.figure(figsize=(12,7))
-    plt.plot(test_data.index, predictions, color='green', marker='o', linestyle='dashed',label='Predicted Price')
-    plt.plot(test_data.index, test_data['Open'], color='red', label='Actual Price')
+    plt.plot(test_data.index, predictions, color='green', marker='o', 
+            linestyle='dashed',label='Predicted Price')
+    plt.plot(test_data.index, test_data['Open'], color='red', 
+            label='Actual Price')
     plt.legend()
     plt.title('Microsoft Prices Prediction')
     plt.xlabel('Dates')
