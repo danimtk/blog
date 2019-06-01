@@ -3,6 +3,9 @@ layout: post
 permalink: /blog6/
 ---
 
+![](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+(Source: https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+
 ### SVM: Feature Selection and Kernels
 
 > A Support Vector Machine (SVM) is a supervised machine learning algorithm that can be employed for both classification and regression purposes.
@@ -74,6 +77,13 @@ Figure 4: Feature Importance using SVM
 
 If you would like to dig into the Mathematics behind SVM, I have left here a lecture from Patrick Winston available on the MIT OpenCourseWare YouTube channel [4]. This lecture illustrates how to derive the SVM decision rules and which mathematical constraints are to apply using Lagrangian Multipliers. 
 
+<div>
+  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw?rel=0" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+<span class="figcaption_hack">Video 1: Amazon Data Scraping Example</span>
+<br><br>
 Video 1: [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) [4]
 
 ### Contacts
@@ -101,3 +111,8 @@ If you want to keep updated with my latest articles and projects, these are some
 [3] Support vector machines, Jeremy Jordan. Accessed at: <https://www.jeremyjordan.me/support-vector-machines/>
 
 [4] MIT OpenCourseWare, 16. Learning: Support Vector Machines. Accessed at: <https://www.youtube.com/watch?v=_PwhiWxHK8o>
+
+### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
+
+MEng Electronic Engineering with Artificial Intelligence — University of
+Southampton, RPA Developer.
