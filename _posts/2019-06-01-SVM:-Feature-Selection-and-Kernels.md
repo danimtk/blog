@@ -79,7 +79,9 @@ Figure 4: Feature Importance using SVM
 If you would like to dig into the Mathematics behind SVM, I have left here a lecture from Patrick Winston available on the MIT OpenCourseWare YouTube channel [4]. This lecture illustrates how to derive the SVM decision rules and which mathematical constraints are to apply using Lagrangian Multipliers. 
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PwhiWxHK8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe align="middle" width="650" height="500" src="https://youtu.be/g8D5YL6cOSE?rel=0" 
+          frameborder="0" allowfullscreen>
+  </iframe>
 </div>
 <span class="figcaption_hack">Video 1: [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) [4]</span>
 <br><br>
