@@ -4,7 +4,8 @@ permalink: /blog6/
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*nUpw5agP-Vefm4Uinteq-A.png)
-(Source: https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+<span class="figcaption_hack">(Source
+=[https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f))</span>
 
 ### SVM: Feature Selection and Kernels
 
@@ -78,7 +79,7 @@ Figure 4: Feature Importance using SVM
 If you would like to dig into the Mathematics behind SVM, I have left here a lecture from Patrick Winston available on the MIT OpenCourseWare YouTube channel [4]. This lecture illustrates how to derive the SVM decision rules and which mathematical constraints are to apply using Lagrangian Multipliers. 
 
 <div>
-  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw?rel=0" 
+  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" 
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
