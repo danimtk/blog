@@ -3,7 +3,7 @@ layout: post
 permalink: /blog6/
 ---
 
-![](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+![](https://cdn-images-1.medium.com/max/2000/1*nUpw5agP-Vefm4Uinteq-A.png)
 (Source: https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
 
 ### SVM: Feature Selection and Kernels
@@ -82,9 +82,8 @@ If you would like to dig into the Mathematics behind SVM, I have left here a lec
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
-<span class="figcaption_hack">Video 1: Amazon Data Scraping Example</span>
+<span class="figcaption_hack">Video 1: [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) [4]</span>
 <br><br>
-Video 1: [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) [4]
 
 ### Contacts
 
