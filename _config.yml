@@ -8,5 +8,7 @@ avatar: https://cdn-images-1.medium.com/fit/c/80/80/0*juYh9_bVEJB6Q18x.jpg
 
 permalink: /blog/
 
+paginate: 5
+
 plugins:
   - jekyll-seo-tag
