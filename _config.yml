@@ -8,10 +8,19 @@ avatar: https://cdn-images-1.medium.com/fit/c/80/80/0*juYh9_bVEJB6Q18x.jpg
 
 permalink: /blog/
 
-paginate: 4
-paginate_path: "/blog/page:num/"
-
 plugins:
   - jekyll-seo-tag
   
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate-v2
+
+permalink: /:year/:month/
+pagination:
+  enabled: true
+  per_page: 12
+  sort_reverse: true
+  sort_field: 'date'
+  title: ':title'
+  trail:
+    before: 2
+    after: 2
