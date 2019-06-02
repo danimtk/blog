@@ -2,7 +2,29 @@
 layout: default
 ---
 
-<!-- <div class="posts">
+
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+  }
+
+.pagination a {    
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.pagination {
+    text-align: center;
+ }
+
+
+<div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -17,7 +39,7 @@ layout: default
   {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
@@ -45,10 +67,10 @@ layout: default
  -->
 
 <!-- post list -->
-{% for post in paginator.posts %}
+<!-- {% for post in paginator.posts %}
 <li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
 {% endfor %}
-
+ -->
 
 <!-- pagination -->
 {% if paginator.total_pages > 1 %}
@@ -76,23 +98,3 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
-
-.pagination a, .pagination span {
-    padding: 7px 18px;
-    border: 1px solid #eee;
-    margin-left: -2px;
-    margin-right: -2px;
-    background-color: #ffffff;
-    display: inline-block;
-  }
-
-.pagination a {    
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
- }
-
-.pagination {
-    text-align: center;
- }
