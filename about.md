@@ -15,7 +15,7 @@ I am a third-year student at the University of Southampton studying Electronic E
 
 [Linkedin](https://www.linkedin.com/in/pier-paolo-ippolito-202917146/)
 
-[Personal WebSite](https://pierpaolo28.github.io./)
+[Personal WebSite](https://pierpaolo28.github.io/index.html)
 
 [Medium Profile](https://medium.com/@pierpaoloippolito28)
 
