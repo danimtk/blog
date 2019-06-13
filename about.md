@@ -20,3 +20,5 @@ I am a third-year student at the University of Southampton studying Electronic E
 [Medium Profile](https://medium.com/@pierpaoloippolito28)
 
 [Kaggle](https://www.kaggle.com/pierpaolo28)
+
+[Personal Blog Android App](pierblog.apk)
