@@ -3,7 +3,7 @@ layout: post
 permalink: /blog7/
 ---
 
-![](https://cdn-images-1.medium.com/max/2000/1*lfsNq-qhWwOo-bzqwh7Igw.jpeg)
+![](https://cdn-images-1.medium.com/max/2000/1*lfsNq-qhWwOo-bzqwh7Igw.jpeg) <br>
 <span class="figcaption_hack">(Source =
 [https://image.slidesharecdn.com/slides-170512093121/95/deploying-machine-learning-models-to-production-8-638.jpg?cb=1507239367](https://image.slidesharecdn.com/slides-170512093121/95/deploying-machine-learning-models-to-production-8-638.jpg?cb=1507239367))</span>
 
@@ -31,7 +31,7 @@ Android devices.
 
 ### Flask
 
-![](https://cdn-images-1.medium.com/max/2000/1*0OD66Df9V6iylNEa3DgpeQ.png)
+![](https://cdn-images-1.medium.com/max/2000/1*0OD66Df9V6iylNEa3DgpeQ.png) <br>
 <span class="figcaption_hack">(Source =
 [https://kenya-tech.com/wp-content/uploads/2019/01/flask-python.png](https://kenya-tech.com/wp-content/uploads/2019/01/flask-python.png))</span>
 
@@ -74,10 +74,10 @@ A basic example of **app.py** can be:
 
 If we want to add some HTML, CSS or any other type of content to improve the
 online graphics of the model, it is possible to do so by creating a *templates*
-folder in the same working directory where there are our **model.py**, **app.py
-**and** request.py **files and including these files there. These files have to
+folder in the same working directory where there are our **model.py**, **app.py** and 
+**request.py** files and including these files there. These files have to
 be included in the *templates* folder because when calling
-*render_template(“filename.html”) *in **app.py**, Flask will by default look
+*render_template(“filename.html”)* in **app.py**, Flask will by default look
 just for files in the *templates* folder.
 
 Using just Flask we can be able to run our model on our local machine using a
@@ -85,7 +85,7 @@ local server. If we want instead to make our model available on the Web, we can
 deploy our Flask App to an online platform such as Heroku.
 
 ### Heroku
-![](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png)
+![](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png) <br>
 <span class="figcaption_hack">(Source =
 [https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png))</span>
 
