@@ -85,7 +85,7 @@ local server. If we want instead to make our model available on the Web, we can
 deploy our Flask App to an online platform such as Heroku.
 
 ### Heroku
-
+![](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png)
 <span class="figcaption_hack">(Source =
 [https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png](https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png))</span>
 
@@ -106,6 +106,9 @@ Successively, it is necessary to:
 The first three steps can be implemented by running sequentially the following
 commands in the command prompt.
 
+    git init
+    heroku login
+    heroku create
 
 Creating a requirements.txt file it is necessary to inform Heroku of what
 libraries are needed in order to run our Flask App. Therefore in the
@@ -114,10 +117,14 @@ library used. For this application, the Procfile instead just need to contain
 one line of text (as shown below). The Procfile is needed to let Heroku know
 what type of application we desire to execute.
 
+    web: gunicorn app:app
 
 Steps five and six can then be executed by running sequentially the following
 commands in the command line.
 
+    git add .
+    git commit -m "Committing all the directory files to Heroku"
+    git push heroku master
     heroku open
 
 Using the *heroku open* command should open the webpage where our Flask App has
@@ -170,13 +177,6 @@ Alexander Robertson. Accessed at:
 [3] Deploy a machine learning model using flask. [Hemang
 Vyas](https://hackernoon.com/@vyashemang?source=user_popover). Accessed at:
 [https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c](https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c).
-
-* [Machine Learning](https://medium.com/tag/machine-learning?source=post)
-* [Programming](https://medium.com/tag/programming?source=post)
-* [Technology](https://medium.com/tag/technology?source=post)
-* [Artificial
-Intelligence](https://medium.com/tag/artificial-intelligence?source=post)
-* [Web Development](https://medium.com/tag/web-development?source=post)
 
 ### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
 
