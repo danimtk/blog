@@ -218,13 +218,3 @@ https://www.ncbi.nlm.nih.gov/pubmed/20802524, May 2019.
 [7] Alexa Hryniuk, Stephanie Grainger, et al. Cdx1 and Cdx2 Function as Tumor
 Suppressors. Accessed at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4246091/,
 May 2019.
-
-* [Machine
-Learning](https://towardsdatascience.com/tagged/machine-learning?source=post)
-* [Artificial
-Intelligence](https://towardsdatascience.com/tagged/artificial-intelligence?source=post)
-* [Data Science](https://towardsdatascience.com/tagged/data-science?source=post)
-* [Health](https://towardsdatascience.com/tagged/health?source=post)
-* [Programming](https://towardsdatascience.com/tagged/programming?source=post)
-
-### [Pier Paolo Ippolito](https://towardsdatascience.com/@pierpaoloippolito28)
