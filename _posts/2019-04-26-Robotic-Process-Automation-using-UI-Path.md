@@ -97,7 +97,29 @@ executed by the robot and flag any anomalies. This would allow a human operator
 to later check how the process was handled by the robot and to see how the robot
 reacted to any unexpected event.
 
-### References
+### Contacts
+
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
+
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
+
+[Personal Blog](https://pierpaolo28.github.io/blog/)
+
+[Personal Website](https://pierpaolo28.github.io/)
+
+[GitHub](https://github.com/pierpaolo28)
+
+[Kaggle](https://www.kaggle.com/pierpaolo28)
+
+[Medium Profile](https://towardsdatascience.com/@pierpaoloippolito28)
+
+[Linkedin](https://uk.linkedin.com/in/pier-paolo-ippolito-202917146)
+
+
+### Bibligraphy
 
 [1] 57 RPA Use Cases/ Applications: in-Depth Guide [2019 update] =
 [https://blog.aimultiple.com/robotic-process-automation-use-cases/](https://blog.aimultiple.com/robotic-process-automation-use-cases/)
@@ -108,21 +130,3 @@ reacted to any unexpected event.
 [3] Analytics Insight, [Kamalika
 Some](https://www.analyticsinsight.net/author/kamalika/) =
 [https://www.analyticsinsight.net/top-10-robotic-process-automation-companies-of-2018/](https://www.analyticsinsight.net/top-10-robotic-process-automation-companies-of-2018/)
-
-### Contacts
-
-If you want to keep updated with my latest articles and projects, these are some
-of my contacts details:
-
-[Personal Blog](https://pierpaolo28.github.io/blog/)
-
-[GitHub](https://github.com/pierpaolo28)
-
-[Medium Profile](https://towardsdatascience.com/@pierpaoloippolito28)
-
-[Linkedin](https://uk.linkedin.com/in/pier-paolo-ippolito-202917146)
-
-### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
