@@ -86,11 +86,16 @@ If you would like to dig into the Mathematics behind SVM, I have left here a lec
 
 ### Contacts
 
-In case you have any questions or any suggestions on what should be my next article about, please just leave a comment below.
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
 
-If you want to keep updated with my latest articles and projects, these are some of my contacts details:
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
 
 [Personal Blog](https://pierpaolo28.github.io/blog/)
+
+[Personal Website](https://pierpaolo28.github.io/)
 
 [GitHub](https://github.com/pierpaolo28)
 
@@ -109,8 +114,3 @@ If you want to keep updated with my latest articles and projects, these are some
 [3] Support vector machines, Jeremy Jordan. Accessed at: <https://www.jeremyjordan.me/support-vector-machines/>
 
 [4] MIT OpenCourseWare, 16. Learning: Support Vector Machines. Accessed at: <https://www.youtube.com/watch?v=_PwhiWxHK8o>
-
-### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
