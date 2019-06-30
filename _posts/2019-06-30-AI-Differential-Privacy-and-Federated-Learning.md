@@ -78,14 +78,14 @@ preserve their privacy.
 Typically two types of noise can be used when implementing differential privacy:
 Gaussian and Laplacian (Figure 1).
 
-![](https://cdn-images-1.medium.com/max/2000/1*krUzaZS28Re8Sz-gE9w3nQ.gif)
+![](https://cdn-images-1.medium.com/max/2000/1*krUzaZS28Re8Sz-gE9w3nQ.gif) <br>
 <span class="figcaption_hack">Figure 1: Gaussian and Laplacian distributions.</span>
 
 In order to decide the amount of noise necessary to add on a dataset to make it
 privacy secure, the formal definition of Differential Privacy (Figure 2) is
 used.
 
-![](https://cdn-images-1.medium.com/max/2000/1*R8bT-N53FibRsa3GSL3C3Q.png)
+![](https://cdn-images-1.medium.com/max/2000/1*R8bT-N53FibRsa3GSL3C3Q.png) <br>
 <span class="figcaption_hack">Figure 2: Differential Privacy Definition [2]</span>
 
 In Figure 2, **A** represents a randomized algorithm that takes a dataset as an
@@ -118,7 +118,7 @@ A definition of Federated Learning can be:
 data to which we don’t have access. The dataset we use to train a model is
 distributed among a large number of resources. 
 
-![](https://cdn-images-1.medium.com/max/2000/1*qO-0KDini9MuEKuic3iO-A.png)
+![](https://cdn-images-1.medium.com/max/2000/1*qO-0KDini9MuEKuic3iO-A.png) <br>
 <span class="figcaption_hack">Figure 3: Federated Learning in action [3]</span>
 
 Companies like Google specified that these types of local Machine Learning
