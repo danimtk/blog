@@ -111,13 +111,16 @@ provided by UCSC Xena, University of California Santa Cruz.
 
 ### Contacts
 
-In case you have any questions or any suggestions on what should be my next
-article about, please just leave a comment below.
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
 
-If you want to keep updated with my latest articles and projects, these are some
-of my contacts details:
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
 
 [Personal Blog](https://pierpaolo28.github.io/blog/)
+
+[Personal Website](https://pierpaolo28.github.io/)
 
 [GitHub](https://github.com/pierpaolo28)
 
@@ -155,8 +158,3 @@ Tanel Pärnamaa, Et al. Accessed at:
 detection and diagnosis, A survey. Accessed at:
 [https://www.sciencedirect.com/science/article/abs/pii/S0031320318301845](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301845)
 , May 2019.
-
-### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
