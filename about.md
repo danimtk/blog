@@ -9,13 +9,13 @@ permalink: /about/
 ### Software Engineer
 ### AI enthusiast, fluent in Python, UIPATH and Web Development
 
-I am a third-year student at the University of Southampton studying Electronic Engineering. I have a strong interest in AI advancements and machine learning applications (such as financial markets and medicine). Outside my degree course, I have also attended occasional courses on accounting and finance to expand my personal knowledge and took part in volunteering experiences.
+I am a final year MSc in Artificial Intelligence student at the University of Southampton graduating in September 2020. I have a strong interest in AI advancements and machine learning applications (such as financial markets and medicine). Outside my degree course, I am a writer for Towards Data Science and a Kaggle Contributor.
 
 ### Contact me
 
-[Linkedin](https://www.linkedin.com/in/pier-paolo-ippolito-202917146/)
+[Linkedin](https://www.linkedin.com/in/pierpaolo28/)
 
-[Personal WebSite](https://pierpaolo28.github.io/index.html)
+[Personal WebSite](https://pierpaolo28.github.io/)
 
 [Medium Profile](https://medium.com/@pierpaoloippolito28)
 
