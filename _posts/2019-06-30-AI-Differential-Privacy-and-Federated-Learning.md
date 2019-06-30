@@ -79,7 +79,7 @@ Typically two types of noise can be used when implementing differential privacy:
 Gaussian and Laplacian (Figure 1).
 
 ![](https://cdn-images-1.medium.com/max/2000/1*krUzaZS28Re8Sz-gE9w3nQ.gif) <br>
-<span class="figcaption_hack">Figure 1: Gaussian and Laplacian distributions.</span>
+<span class="figcaption_hack">Figure 1: Gaussian and Laplacian distributions</span>
 
 In order to decide the amount of noise necessary to add on a dataset to make it
 privacy secure, the formal definition of Differential Privacy (Figure 2) is
