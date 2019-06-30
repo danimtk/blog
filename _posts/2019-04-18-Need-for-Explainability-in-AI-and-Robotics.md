@@ -132,12 +132,3 @@ January 2019
 Medium. (Accessed:
 [https://medium.freecodecamp.org/an-introduction-to-explainable-ai-and-why-we-need-it-a326417dd000](https://medium.freecodecamp.org/an-introduction-to-explainable-ai-and-why-we-need-it-a326417dd000))
 January 2019
-
-### [Pier Paolo Ippolito](https://towardsdatascience.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
-
-### [Towards Data Science](https://towardsdatascience.com/?source=footer_card)
-
-Sharing concepts, ideas, and codes.
