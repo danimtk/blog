@@ -108,6 +108,27 @@ Relevance Propagation (LRP) [5]. Theses listed methods used for producing
 explainable models are still nowadays not able to produce exhaustive results,
 therefore research in this area is still in need of further developments.
 
+### Contacts
+
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
+
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
+
+[Personal Blog](https://pierpaolo28.github.io/blog/)
+
+[Personal Website](https://pierpaolo28.github.io/)
+
+[GitHub](https://github.com/pierpaolo28)
+
+[Kaggle](https://www.kaggle.com/pierpaolo28)
+
+[Medium Profile](https://towardsdatascience.com/@pierpaoloippolito28)
+
+[Linkedin](https://uk.linkedin.com/in/pier-paolo-ippolito-202917146)
+
 ### Bibliography
 
 [1] Applying Artificial Intelligence and Machine Learning in Robotics, Robotic
