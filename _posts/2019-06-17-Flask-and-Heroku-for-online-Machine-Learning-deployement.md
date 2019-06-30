@@ -146,11 +146,12 @@ page](https://github.com/pierpaolo28/Artificial-Intelligence-Projects/tree/maste
 
 ### Contacts
 
-In case you have any questions or any suggestions on what should be my next
-article about, please just leave a comment below.
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
 
-If you want to keep updated with my latest articles and projects, these are some
-of my contacts details:
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
 
 [Personal Blog](https://pierpaolo28.github.io/blog/)
 
@@ -177,8 +178,3 @@ Alexander Robertson. Accessed at:
 [3] Deploy a machine learning model using flask. [Hemang
 Vyas](https://hackernoon.com/@vyashemang?source=user_popover). Accessed at:
 [https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c](https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c).
-
-### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
