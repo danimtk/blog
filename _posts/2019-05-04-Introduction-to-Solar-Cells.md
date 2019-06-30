@@ -169,15 +169,20 @@ conversion efficiency [9].
 
 ### Contacts
 
-In case you have any questions or any suggestions on what should be my next article
-about, please just leave a comment.
+In case you have any questions or any suggestions on what my next article should
+be about, please just leave a comment below.
 
-If you want to keep updated with my latest articles and projects, these are some
-of my contacts details:
+If you want to keep updated with my latest articles and projects [follow me on
+Medium](https://medium.com/@pierpaoloippolito28). These are some of my contacts
+details:
 
 [Personal Blog](https://pierpaolo28.github.io/blog/)
 
+[Personal Website](https://pierpaolo28.github.io/)
+
 [GitHub](https://github.com/pierpaolo28)
+
+[Kaggle](https://www.kaggle.com/pierpaolo28)
 
 [Medium Profile](https://towardsdatascience.com/@pierpaoloippolito28)
 
@@ -221,8 +226,3 @@ in March 2019:
 [9] Fraunhofer ISE announces 33\% efficiency for multi-junction solar cell,
 Daniel Seeger, PV magazine. Accessed in March 2019:
 [https://www.pv-magazine.com/2018/04/04/fraunhofer-ise-announces-33-efficiency-for-multi-junction-solar-cell/](https://www.pv-magazine.com/2018/04/04/fraunhofer-ise-announces-33-efficiency-for-multi-junction-solar-cell/)
-
-### [Pier Paolo Ippolito](https://medium.com/@pierpaoloippolito28)
-
-MEng Electronic Engineering with Artificial Intelligence — University of
-Southampton, RPA Developer.
