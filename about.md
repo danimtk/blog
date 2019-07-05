@@ -58,7 +58,7 @@ I am a final year MSc in Artificial Intelligence student at the University of So
   }
   </style>
   
-<meta name="referrer" content="none">
+<meta name="referrer" content="same-origin">
 <div class="form">
   <h2 class="sm-heading">If you wish to get in touch with me, just fill this form:</h2>
   <form action="http://formspree.io/pierpaoloippolito28@gmail.com" method="POST">
