@@ -70,8 +70,7 @@ I am a final year MSc in Artificial Intelligence student at the University of So
     <label for="sbg">Message Subject</label>
     <input type="text" id="sbg" name="Subject" placeholder="Message Subject..">
     <label for="msg">Your message*</label>
-    <textarea name="Message" style="height:200px"> 
-    </textarea required>
+    <textarea name="Message" style="height:200px" required></textarea>
     <h3 class="sm-heading">*Required Fields</h3>
     <input type="submit" value="Submit">
   </form>
