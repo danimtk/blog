@@ -39,7 +39,7 @@ I am a final year MSc in Artificial Intelligence student at the University of So
   }
 
   input[type=submit] {
-    background-color: #373737;
+    background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
     border: 3px #fff solid;
@@ -48,12 +48,12 @@ I am a final year MSc in Artificial Intelligence student at the University of So
   }
 
   input[type=submit]:hover {
-    background-color: #1a87ee;
+    background-color: #45a049;
   }
 
   .form {
     border-radius: 5px;
-    background: rgba(73, 73, 73, 0.5); 
+    background-color: #f2f2f2;
     padding: 20px;
   }
   </style>
