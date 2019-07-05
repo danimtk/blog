@@ -63,18 +63,15 @@ I am a final year MSc in Artificial Intelligence student at the University of So
   <form action="http://formspree.io/pierpaoloippolito28@gmail.com" method="POST">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="First Name" placeholder="Your name..">
-
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="Last Name" placeholder="Your last name..">
-
     <label for="em">Email Address*</label>
     <input type="text" id="em" name="Email" placeholder="Your email address.." required>
-
     <label for="sbg">Message Subject</label>
     <input type="text" id="sbg" name="Subject" placeholder="Message Subject..">
-
     <label for="msg">Your message*</label>
-    <textarea name="Message" style="height:200px"> </textarea required>
+    <textarea name="Message" style="height:200px"> 
+    </textarea required>
     <h3 class="sm-heading">*Required Fields</h3>
     <input type="submit" value="Submit">
   </form>
