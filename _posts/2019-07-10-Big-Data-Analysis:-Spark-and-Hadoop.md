@@ -25,9 +25,9 @@ and has been recorded using different formats.
 
 Three different ways of formatting data are commonly employed:
 
-* **Unstructured**: unorganised data (eg. videos).
-* **Semi-structured**: the data is organised in a not fixed format (eg. JSON).
-* **Structured**: the data is stored in a structured format (eg. RDBMS).
+* **Unstructured** = unorganised data (eg. videos).
+* **Semi-structured** = the data is organised in a not fixed format (eg. JSON).
+* **Structured** = the data is stored in a structured format (eg. RDBMS).
 
 Big Data is defined by three properties:
 
@@ -53,7 +53,7 @@ Hadoop, Pig, Hive, Cassandra and Kafka. Each of these different tools has its
 advantages and disadvantages which determines how companies might decide to
 employ them [2].
 
-![](https://cdn-images-1.medium.com/max/1200/1*OxQRy91ZgWWgaO0RHgqO1Q.png)
+![](https://cdn-images-1.medium.com/max/1200/1*OxQRy91ZgWWgaO0RHgqO1Q.png) <br>
 <span class="figcaption_hack">Figure 1: Big Data Tools [2]</span>
 
 Big Data Analysis is now commonly used by many companies to predict market
@@ -80,7 +80,7 @@ In MapReduce, we take the input data and divide it into many parts. Each part is
 then sent to a different machine to be processed and finally aggregated
 according to a specified *groupby *function.
 
-![](https://cdn-images-1.medium.com/max/800/1*MrHPIUqCywZJx5QDuFospw.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*MrHPIUqCywZJx5QDuFospw.jpeg) <br>
 <span class="figcaption_hack">Figure 2: MapReduce in action [3]</span>
 
 ### Apache Spark
@@ -96,7 +96,7 @@ Apache Spark is commonly used for:
 1.  Preprocess a large amount of data (SQL).
 1.  Analyse data using Machine Learning and process graph networks.
 
-![](https://cdn-images-1.medium.com/max/800/1*n62DivImmGFUwAU7C1nTNw.png)
+![](https://cdn-images-1.medium.com/max/800/1*n62DivImmGFUwAU7C1nTNw.png) <br>
 <span class="figcaption_hack">Figure 3: Apache Spark Libraries [4] </span>
 
 Apache Spark can be used with programming languages such as Python, R and Scala.
@@ -113,7 +113,7 @@ workers fail.
 RDDs can be used to perform two types of operations in Spark: Transformations
 and Actions (Figure 4). 
 
-![](https://cdn-images-1.medium.com/max/800/1*C0kdjWUggJqdKgWvjlWxqA.png)
+![](https://cdn-images-1.medium.com/max/800/1*C0kdjWUggJqdKgWvjlWxqA.png) <br>
 <span class="figcaption_hack">Figure 4: Apache Spark Workflow [5]</span>
 
 Transformations create new datasets from RDDs and returns as result an RDD (eg.
@@ -143,7 +143,7 @@ format.
 * **Hadoop MapReduce** = is used for loading the data from a database, formatting
 it and performing a quantitative analysis on it.
 
-![](https://cdn-images-1.medium.com/max/1200/1*WV4svFnRNAPPUzIxMbsNvg.jpeg)
+![](https://cdn-images-1.medium.com/max/1200/1*WV4svFnRNAPPUzIxMbsNvg.jpeg) <br>
 <span class="figcaption_hack">Figure 5: Hadoop Ecosystem [7]</span>
 
 Some application examples of Hadoop are: search (eg. Yahoo), log processing/Data
