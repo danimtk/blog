@@ -7,9 +7,9 @@ permalink: /blog10/
 <span class="figcaption_hack">(Source:
 [https://images.xenonstack.com/blog/10-vs-of-big-data.png](https://images.xenonstack.com/blog/10-vs-of-big-data.png))</span>
 
-### Big Data Analysis: Spark and Hadoop
+# Big Data Analysis: Spark and Hadoop
 
-#### Introduction to Big Data and the different techniques employed to handle it such as MapReduce, Apache Spark and Hadoop.
+## Introduction to Big Data and the different techniques employed to handle it such as MapReduce, Apache Spark and Hadoop.
 
 ### Big Data
 
