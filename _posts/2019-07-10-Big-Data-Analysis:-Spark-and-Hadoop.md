@@ -8,7 +8,7 @@ permalink: /blog10/
 Introduction to Big Data and the different techniques employed to handle it such
 as MapReduce, Apache Spark and Hadoop.
 
-![](https://cdn-images-1.medium.com/max/800/1*OYalBcMGoyYc5lN0ywSXiQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*OYalBcMGoyYc5lN0ywSXiQ.png) <br>
 <span class="figcaption_hack">(Source:
 [https://images.xenonstack.com/blog/10-vs-of-big-data.png](https://images.xenonstack.com/blog/10-vs-of-big-data.png))</span>
 
@@ -31,12 +31,12 @@ Three different ways of formatting data are commonly employed:
 
 Big Data is defined by three properties:
 
-1.  **Volume **= because of the large amount of data, storing data on a single
+1.  **Volume ** = because of the large amount of data, storing data on a single
 machine is impossible. How can we process data across multiple machines assuring
 fault tolerance?  
-1.  **Variety **= How can we deal with data coming from varied sources which have
+1.  **Variety ** = How can we deal with data coming from varied sources which have
 been formatted using different schemas?
-1.  **Velocity **= How can we quickly store and process new data?
+1.  **Velocity ** = How can we quickly store and process new data?
 
 Big Data can be analysed using two different processing techniques: 
 
