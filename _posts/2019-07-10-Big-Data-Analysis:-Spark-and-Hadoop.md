@@ -9,8 +9,7 @@ permalink: /blog10/
 
 ### Big Data Analysis: Spark and Hadoop
 
-Introduction to Big Data and the different techniques employed to handle it such
-as MapReduce, Apache Spark and Hadoop.
+#### Introduction to Big Data and the different techniques employed to handle it such as MapReduce, Apache Spark and Hadoop.
 
 ### Big Data
 
