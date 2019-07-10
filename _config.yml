@@ -11,7 +11,8 @@ permalink: /blog/
 
 plugins:
   - jekyll-seo-tag
-  
+  - jekyll-sitemap
+   
 gems:
   - jekyll-feed
   
