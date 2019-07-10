@@ -9,9 +9,7 @@ permalink: /blog9/
 
 ### AI Differential Privacy and Federated Learning
 
-#### Use of Artificial Intelligence on users sensitive data has recently raised
-numerous concerns. Differential Privacy and Federated Learning is the solution
-now proposed to this problem by companies such as Google and Apple.
+#### Use of Artificial Intelligence on users sensitive data has recently raised numerous concerns. Differential Privacy and Federated Learning is the solution now proposed to this problem by companies such as Google and Apple.
 
 ### Introduction
 
