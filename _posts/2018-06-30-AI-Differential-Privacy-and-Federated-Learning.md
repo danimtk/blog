@@ -1,4 +1,7 @@
-
+---
+layout: post
+permalink: /blog9/
+---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*HWc5NuExyEaj5mRVKOj8sQ.png)
 <span class="figcaption_hack">(Source:
