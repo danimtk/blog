@@ -9,8 +9,7 @@ permalink: /blog12/
 
 # GPU Accelerated Data Analytics & Machine Learning
 
-## The future is here! Speed up your Machine Learning workflow using Python RAPIDS
-libraries support.
+## The future is here! Speed up your Machine Learning workflow using Python RAPIDS libraries support.
 
 ### Introduction
 
