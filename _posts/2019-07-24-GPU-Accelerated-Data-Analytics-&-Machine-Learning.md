@@ -86,6 +86,8 @@ notebook](https://drive.google.com/open?id=1oEoAxBbZONUqm4gt9w2PIzmLTa7IjjV9)).
 
 Once is everything set up, we can then import all the necessary libraries.
 
+<script src="https://gist.github.com/pierpaolo28/566a64359db2440db7f4a7e50ac1cee2.js"></script>
+
 In this example, I will show you how RAPIDS can speed up your Machine Learning
 workflow compared to just using Sklearn. In this case, I decided to use Pandas
 for preprocessing both the RAPIDS and Sklearn analysis. On my [Google
@@ -97,15 +99,19 @@ especially if working with a large amount of data.
 For this example, I decided to fabricate a simple dataset using Gaussian
 Distributions consisting of three features and two labels (0/1).
 
+<script src="https://gist.github.com/pierpaolo28/fbd17893576019f4c29ebe3f01bcb226.js"></script>
+
 The values of the means and standard deviations of the distributions have been
 chosen so that to make this classification problem fairly easy (linearly
 separable data).
 
-![](https://cdn-images-1.medium.com/max/2000/1*MtzZAGyFwyf0LkeccAH7Ig.png)
+![](https://cdn-images-1.medium.com/max/2000/1*MtzZAGyFwyf0LkeccAH7Ig.png) <br>
 <span class="figcaption_hack">Figure 3: Sample Dataset</span>
 
 Once created the dataset, I divided it features and labels and then defined a
 function to preprocess it.
+
+<script src="https://gist.github.com/pierpaolo28/5f45676f672689c78ded108862de6205.js"></script>
 
 Now that we got our Training/Test sets we are finally ready to get started with
 our Machine Learning. In this example, I will be using XGBoost (Extreme Gradient
@@ -116,7 +122,11 @@ Boosting) as classifier.
 In order to use XGBoost with RAPIDS we need first to convert our Training/Tests
 inputs in matrix form.
 
+<script src="https://gist.github.com/pierpaolo28/1329620ba8a603d8837e575fe7d93c21.js"></script>
+
 Successively, we can start training our model.
+
+<script src="https://gist.github.com/pierpaolo28/7642cc074fd7f0062fc909bb8b98d9b5.js"></script>
 
 The output of the above cell is shown below. Using the XGBoost library provided
 by RAPIDS took just under two minutes to train our model.
@@ -126,6 +136,8 @@ by RAPIDS took just under two minutes to train our model.
 
 Additionally RAPIDS XGBoost library provides also a really handy function to
 rank and plot the importance of each feature in our dataset (Figure 4).
+
+<script src="https://gist.github.com/pierpaolo28/e68f8bf70586585ff8dcd3372308668e.js"></script>
 
 This can be really useful in order to reduce the dimensionality of our data. By
 selecting just the most important features and training our model on it, we
@@ -140,6 +152,8 @@ about it.
 
 Finally, we can now calculate the accuracy of our classifier.
 
+<script src="https://gist.github.com/pierpaolo28/5a8bb1ae7b535d10f67e5357fdf30022.js"></script>
+
 The overall accuracy of our model using RAPIDS was equal to 98%.
 
     XGB accuracy using RAPIDS: 98.0 %
@@ -147,6 +161,8 @@ The overall accuracy of our model using RAPIDS was equal to 98%.
 #### Sklearn
 
 I will now repeat the same analysis using plain Sklearn.
+
+<script src="https://gist.github.com/pierpaolo28/45b1fabde7c642955ef71c3b5889ee82.js"></script>
 
 In this occasion, it took just above 11 minutes to train our model. That means
 using Sklearn for this problem size was 5.8 times slower than using RAPIDS
@@ -157,6 +173,8 @@ reduce the execution time even more for the overall workflow of this example.
     Wall time: 11min 2s
 
 Finally, calculated the overall accuracy of the model using Sklearn.
+
+<script src="https://gist.github.com/pierpaolo28/1f3112e5f3e96a919e28beefa8b07330.js"></script>
 
 Also, in this case, the overall accuracy was equal to 98%. That means that using
 RAPIDS can lead to faster results without compromising at all our model
