@@ -5,7 +5,7 @@ permalink: /blog13/
 
 ![](https://cdn-images-1.medium.com/max/2600/1*Uh1cFT3sfz3PJe8Mj4qhAw.jpeg)
 <span class="figcaption_hack">(Source:
-[https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg])</span>
+(https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg))</span>
 
 # Deep Learning Analysis Using Large Model Support
 
