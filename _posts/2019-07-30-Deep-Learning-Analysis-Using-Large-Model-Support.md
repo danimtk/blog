@@ -9,8 +9,7 @@ permalink: /blog13/
 
 # Deep Learning Analysis Using Large Model Support
 
-## Optimize your Machine Learning model memory consumption with IBM Large Model
-Support.
+## Optimize your Machine Learning model memory consumption with IBM Large Model Support.
 
 ### Introduction
 
