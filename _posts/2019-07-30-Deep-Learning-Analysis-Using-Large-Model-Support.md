@@ -4,8 +4,7 @@ permalink: /blog13/
 ---
 
 ![](https://cdn-images-1.medium.com/max/2600/1*Uh1cFT3sfz3PJe8Mj4qhAw.jpeg)
-<span class="figcaption_hack">(Source:
-[https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg](https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg))</span>
+<span class="figcaption_hack">(Source: [https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg] (https://miro.medium.com/max/3512/1*d-ZbdImPx4zRW0zK4QL49w.jpeg))</span>
 
 # Deep Learning Analysis Using Large Model Support
 
@@ -128,8 +127,12 @@ Kaggle, Google Colab).
 
 Once is everything set up, we can then import all the necessary libraries.
 
+<script src="https://gist.github.com/pierpaolo28/837dd2477b6d226c50128577e6c8a5a4.js"></script>
+
 In order to record the memory usage, I decided to use Python
 [memory_profiler](https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html).
+
+<script src="https://gist.github.com/pierpaolo28/7d79d381ac1339f2e2dc8ee60e4651a7.js"></script>
 
 Successively, I defined the LMS Keras Callback which will be used during
 training. The definition of a Callback according to Keras documentation is:
@@ -144,6 +147,8 @@ Callbacks are typically used to take control of a model training process by
 automating certain tasks during every training iteration (in this case by adding
 Large Model Support optimization).
 
+<script src="https://gist.github.com/pierpaolo28/86f1fdb5324be3a16817e631bd00f38c.js"></script>
+
 I then decided to fabricate a simple dataset of 200000 rows using Gaussian
 Distributions consisting of three features and two labels (0/1).
 
@@ -151,15 +156,21 @@ The values of the means and standard deviations of the distributions have been
 chosen so that to make this classification problem fairly easy (linearly
 separable data).
 
+<script src="https://gist.github.com/pierpaolo28/37b635f4d37b056a8c173773d09b0ceb.js"></script>
+
 ![](https://cdn-images-1.medium.com/max/2000/1*5haLttFvQz5AcKu8Jxxcqg.png) <br>
 <span class="figcaption_hack">Figure 2: Dataset Head</span>
 
 Once created the dataset, I divided it into features and labels and then defined
 a function to preprocess it.
 
+<script src="https://gist.github.com/pierpaolo28/5f45676f672689c78ded108862de6205.js"></script>
+
 Now that we got our Training/Test sets, we are finally ready to get started with
 Deep Learning. I, therefore, defined a simple Sequential model for binary
 classification and selected a batch size of 8 elements.
+
+<script src="https://gist.github.com/pierpaolo28/768e5e55b2c38eabe8f2e4368145451b.js"></script>
 
 #### Keras and Large Model Support
 
@@ -176,8 +187,12 @@ In case you are interested in a more detailed explanation about Keras
 Generators, it is available
 [here](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly).
 
+<script src="https://gist.github.com/pierpaolo28/98dccc23008ba9af3fbd5469a8c741fd.js"></script>
+
 Once defined our generator function I then trained our model using the LMS Keras
 Callback defined before. 
+
+<script src="https://gist.github.com/pierpaolo28/6205e608e478823df885328127de797f.js"></script>
 
 In the code above, I additionally added on the first line the *%%memit *command
 to print out the memory usage of running this cell. The results are shown below:
@@ -196,12 +211,16 @@ the Increment 2.8MB.
 Finally, I decided to test the accuracy of our trained model to validate our
 training results.
 
+<script src="https://gist.github.com/pierpaolo28/f96e208ca0b57b2b7b6cb62bbb944858.js"></script>
+
     Model accuracy using Large Model Support: 99.9995 %
 
 #### Keras
 
 Repeating the same procedure using plain Keras, the following results were
 obtained:
+
+<script src="https://gist.github.com/pierpaolo28/c8175a41a70150ece21895d776a50ef0.js"></script>
 
     Epoch 1/2 1600000/1600000 [==============================] 
     - 537s 336us/step - loss: 0.0449 - acc: 0.9846 
@@ -215,6 +234,8 @@ The registered Peak Memory to train this model using Keras was equal to 2.86GB
 and the Increment 26.15MB.
 
 Testing our Keras model lead instead to 98.47% accuracy.
+
+<script src="https://gist.github.com/pierpaolo28/7bc934d6ddd4ea881a907f5177bb54ea.js"></script>
 
     Model accuracy using Sklearn: 98.4795 %
 
