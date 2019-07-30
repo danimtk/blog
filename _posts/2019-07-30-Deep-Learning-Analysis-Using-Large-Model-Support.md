@@ -286,5 +286,3 @@ Center. Accessed at:
 [5] A detailed example of how to use data generators with Keras. <br> Shervine
 Amidi. Accessed at:
 [https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly)
-
-<br> 
