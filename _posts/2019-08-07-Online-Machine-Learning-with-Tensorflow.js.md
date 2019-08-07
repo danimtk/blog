@@ -3,7 +3,7 @@ layout: post
 permalink: /blog14/
 ---
 ![](https://cdn-images-1.medium.com/max/1200/1*YvKKzsjspxIfzY4Xj2e9pQ.png)
-(Source: <https://miro.medium.com/max/1400/1*F-1fq9TNjDnAYPAXnZP4Ww.png>)
+<span class="figcaption_hack"> (Source: <https://miro.medium.com/max/1400/1*F-1fq9TNjDnAYPAXnZP4Ww.png>) </span>
 
 # Online Machine Learning with Tensorflow.js
 
@@ -28,24 +28,21 @@ There are 3 main types of model which can be deployed online:
 In this example (GIF 1) I decided to train and visualize a simple regression model using the ["Swedish Committee on Analysis of Risk Premium in Motor Insurance" dataset](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html). The training process takes place in real-time online once you open the webpage.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*EH68AxMDi6mWVAP_vXC6_A.gif)
-
-GIF 1: Training and Visualizing online a Regression Model
+<span class="figcaption_hack"> GIF 1: Training and Visualizing online a Regression Model </span>
 
 2. **Classification Models**
 
 In this example (GIF 2) I instead decided to train a classification model using the ["Wine Data Set".](https://www.kaggle.com/sgus1318/winedata) Also in this case, the training process takes place in real-time online. Additionally, a summary of the used Neural Network layers characteristics and a Classification Matrix are provided.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*YRUjgDjjiI26Wq1nfNSrvg.gif)
-
-GIF 2: Training and Visualizing online a Classification Model
+<span class="figcaption_hack"> GIF 2: Training and Visualizing online a Classification Model  
 
 3. **Pre-trained Models**
 
 Lastly, in this example (GIF 3), I decided to use a Pre-Trained model. I first trained this model in Python using the ["Pima Indians Diabetes Database"](https://www.kaggle.com/uciml/pima-indians-diabetes-database), saved it as a JSON file and finally deployed it online ready to make predictions.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*k2u3TaJtx6VRj3ZRU6c5uQ.gif)
-
-GIF 3: Making Predictions and Visualizing online using a Pre-Trained Model
+<span class="figcaption_hack"> GIF 3: Making Predictions and Visualizing online using a Pre-Trained Model </span>
 
 All these 3 examples are available on my [personal website](https://pierpaolo28.github.io/Projects/tensorflow.js/tensorjs.html), in case you are interested in testing them out.
 
@@ -91,8 +88,7 @@ In this case, I made use of a callback to call the Tensorflow.js graphing suppor
 <script src="https://gist.github.com/pierpaolo28/5627827e8220d6e19a37145471a81bf7.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*LsUCyrbhfuStbZba9V4eww.png)
-
-Figure 1: Real-Time model Loss
+<span class="figcaption_hack"> Figure 1: Real-Time model Loss </span>
 
 #### Testing
 
@@ -103,8 +99,7 @@ Additionally, I then denormalized our model predictions and then plot them again
 <script src="https://gist.github.com/pierpaolo28/bc1b694e412daefd0645c6e3e2e3a072.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*NxeuNTVHk9hdH3FBlX-e0g.png)
-
-Figure 2: Model Predictions vs Original Data
+<span class="figcaption_hack"> Figure 2: Model Predictions vs Original Data </span>
 
 #### Running the model
 
@@ -113,8 +108,7 @@ Finally, we now need to create a function to make all our code run (*run*). In t
 <script src="https://gist.github.com/pierpaolo28/4738e6843a3ed1d4b9978553f7c8c20f.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*c6YYL-sM42ouZN7Ji5oc0A.png)
-
-Figure 3: Scatterplot of the original data
+<span class="figcaption_hack"> Figure 3: Scatterplot of the original data </span>
 
 You can now test out your model by running it on either your own website or using a local server. In case you never used a local server, one simple solution can be to use [Visual Studio Code](https://visualstudio.microsoft.com/) and install its [Live Server extension](https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview).
 
