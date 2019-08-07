@@ -87,7 +87,7 @@ In this case, I made use of a callback to call the Tensorflow.js graphing suppor
 
 <script src="https://gist.github.com/pierpaolo28/5627827e8220d6e19a37145471a81bf7.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*LsUCyrbhfuStbZba9V4eww.png)
+![](https://cdn-images-1.medium.com/max/800/1*LsUCyrbhfuStbZba9V4eww.png) <br>
 <span class="figcaption_hack"> Figure 1: Real-Time model Loss </span>
 
 #### Testing
@@ -98,7 +98,7 @@ Additionally, I then denormalized our model predictions and then plot them again
 
 <script src="https://gist.github.com/pierpaolo28/bc1b694e412daefd0645c6e3e2e3a072.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*NxeuNTVHk9hdH3FBlX-e0g.png)
+![](https://cdn-images-1.medium.com/max/800/1*NxeuNTVHk9hdH3FBlX-e0g.png) <br>
 <span class="figcaption_hack"> Figure 2: Model Predictions vs Original Data </span>
 
 #### Running the model
@@ -107,7 +107,7 @@ Finally, we now need to create a function to make all our code run (*run*). In t
 
 <script src="https://gist.github.com/pierpaolo28/4738e6843a3ed1d4b9978553f7c8c20f.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*c6YYL-sM42ouZN7Ji5oc0A.png)
+![](https://cdn-images-1.medium.com/max/800/1*c6YYL-sM42ouZN7Ji5oc0A.png) <br>
 <span class="figcaption_hack"> Figure 3: Scatterplot of the original data </span>
 
 You can now test out your model by running it on either your own website or using a local server. In case you never used a local server, one simple solution can be to use [Visual Studio Code](https://visualstudio.microsoft.com/) and install its [Live Server extension](https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview).
