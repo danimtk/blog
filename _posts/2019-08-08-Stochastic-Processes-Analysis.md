@@ -3,13 +3,13 @@ layout: post
 permalink: /blog15/
 ---
 
-# Stochastic Processes Analysis 
-
-## An introduction to Stochastic processes and how they are applied every day in Data Science and Machine Learning.
-
 ![](https://cdn-images-1.medium.com/max/1200/1*0-8wR4jLR09J7A2a7uDFPw.jpeg)
 <span class="figcaption_hack">(Source:
 [https://www.europeanwomeninmaths.org/etfd/](https://www.europeanwomeninmaths.org/etfd/))</span>
+
+# Stochastic Processes Analysis 
+
+## An introduction to Stochastic processes and how they are applied every day in Data Science and Machine Learning.
 
 > “The only simple truth is that there is nothing simple in this complex universe.
 > Everything relates. Everything connects”
