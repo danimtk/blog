@@ -69,7 +69,7 @@ Fractals are *recursive* driven systems, able to capture chaotic behaviours.
 Some examples of fractals in real life are: trees, rivers, clouds, seashells,
 etc…
 
-![](https://cdn-images-1.medium.com/max/600/1*jWjn4ROUqpogq8ZOURirww.jpeg)
+![](https://cdn-images-1.medium.com/max/600/1*jWjn4ROUqpogq8ZOURirww.jpeg) <br>
 <span class="figcaption_hack">Figure 1: MC. Escher, Smaller and Smaller [1]</span>
 
 There are many examples of self-similar objects being applied in art. M.C. Esher
@@ -159,7 +159,7 @@ A Poisson Distribution can be modelled using the following formula (Figure 2),
 where k represents the expected number of events which can take place in a
 period.
 
-![](https://cdn-images-1.medium.com/max/800/1*QORWnQm6--U79s9xd9ivhQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*QORWnQm6--U79s9xd9ivhQ.png) <br>
 <span class="figcaption_hack">Figure 2: Poisson Distribution Formula [3]</span>
 
 Some examples of phenomena which can be modelled using Poisson Processes are
@@ -171,7 +171,7 @@ A Random Walk can be any sequence of discrete steps (of always the same length)
 moving in random directions (Figure 3). Random Walks can take place in any type
 of dimensional space (eg. 1D, 2D, nD).
 
-![](https://cdn-images-1.medium.com/max/800/1*zWhL4sD_Cx3hRTI8T4PDcA.gif)
+![](https://cdn-images-1.medium.com/max/800/1*zWhL4sD_Cx3hRTI8T4PDcA.gif) <br>
 <span class="figcaption_hack">Figure 3: Random Walk in High Dimensions [4]</span>
 
 I will now introduce you to Random Walks using a one-dimensional space (number
@@ -182,7 +182,7 @@ Let’s imagine that we are in a park and we can see a dog looking for food. He 
 currently in position zero on the number line and he has an equal probability to
 move left or right to find any food (Figure 4). 
 
-![](https://cdn-images-1.medium.com/max/800/1*nYe7XMZW3qq7jIRPxtddJQ.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*nYe7XMZW3qq7jIRPxtddJQ.jpeg) <br>
 <span class="figcaption_hack">Figure 4: Number Line [5]</span>
 
 Now, if we want to find out what is going to be the position of the dog after a
@@ -255,7 +255,7 @@ move from a different type of weather a day after the other. Finally, the
 emission probabilities are going to be the probabilities someone is going to
 wear a certain attire depending on the weather of the previous day.
 
-![](https://cdn-images-1.medium.com/max/800/1*8I2Jx2NJRca1x8-v_qSz3g.png)
+![](https://cdn-images-1.medium.com/max/800/1*8I2Jx2NJRca1x8-v_qSz3g.png) <br>
 <span class="figcaption_hack">Figure 5: Hidden Markov Model example [6]</span>
 
 One main problem when using Hidden Markov Models is that as the number of states
@@ -274,7 +274,7 @@ and the number of hidden states forms our hyper-parameters to tune.
 One of the most common applications for HMMs in Machine Learning is in
 agent-based situations such as Reinforcement Learning (Figure 6). 
 
-![](https://cdn-images-1.medium.com/max/800/1*oD5V9UKxO9Z-wof2XonUSQ.gif)
+![](https://cdn-images-1.medium.com/max/800/1*oD5V9UKxO9Z-wof2XonUSQ.gif) <br>
 <span class="figcaption_hack">Figure 6: HMMs in Reinforcement Learning [7]</span>
 
 ### Gaussian Processes
@@ -297,7 +297,7 @@ Imagine now one of your friends challenges you to play at dice and you make 50
 trows. In the case of a fair dice, we would expect that each of the 6 faces has
 the same probability to appear (1/6 each). This is shown in Figure 7.
 
-![](https://cdn-images-1.medium.com/max/800/1*pF0_rW4mZy42EHZmbXCq0w.png)
+![](https://cdn-images-1.medium.com/max/800/1*pF0_rW4mZy42EHZmbXCq0w.png) <br>
 <span class="figcaption_hack">Figure 7: Fair Dice Probability Distribution</span>
 
 Anyway, the more you keep playing and the more you notice that the dice tends to
@@ -305,7 +305,7 @@ land always on the same faces. At this point, you start thinking the dice might
 be loaded and therefore you update your initial belief about the probability
 distribution (Figure 8).
 
-![](https://cdn-images-1.medium.com/max/800/1*Sh3SkWiju3TuzpVJN27zlQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*Sh3SkWiju3TuzpVJN27zlQ.png) <br>
 <span class="figcaption_hack">Figure 8: Loaded Dice Probability Distribution</span>
 
 This process is known as Bayesian Inference. 
@@ -321,7 +321,7 @@ Gaussian processes can, therefore, allow us to describe probability
 distributions of which we can later update the distribution using Bayes Rule
 (Figure 9) once we gather new training data.
 
-![](https://cdn-images-1.medium.com/max/800/1*AKLRCyRebjbUGGwZbmaXAA.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*AKLRCyRebjbUGGwZbmaXAA.jpeg) <br>
 <span class="figcaption_hack">Figure 9: Bayes Rule [8]</span>
 
 ### Auto-Regressive Moving average processes
