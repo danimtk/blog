@@ -313,7 +313,7 @@ This process is known as Bayesian Inference.
 > Bayesian Inference is a process trough which we update our beliefs about the
 > world based on the gathering of new evidences.
 
-We start with a* ***prior belief*** *and once we update it with brand new
+We start with a **prior belief** and once we update it with brand new
 information we construct a **posterior belief**. This same reasoning is valid
 for discrete distributions as well as continuous distributions.
 
