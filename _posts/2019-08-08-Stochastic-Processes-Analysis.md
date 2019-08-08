@@ -378,7 +378,7 @@ Profile](https://towardsdatascience.com/@pierpaoloippolito28?source=post_page---
 [https://www.etsy.com/listing/288848445/m-c-escher-print-escher-art-smaller-and](https://www.etsy.com/listing/288848445/m-c-escher-print-escher-art-smaller-and)
 
 [2] A Gentle Introduction to the Law of Large Numbers in Machine Learning.
-Machine Learning Mastery, Jason Brownlee**. **Accessed at:
+Machine Learning Mastery, Jason Brownlee. Accessed at:
 [https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/](https://machinelearningmastery.com/a-gentle-introduction-to-the-law-of-large-numbers-in-machine-learning/)
 
 [3] NORMAL DISTRIBUTION, BINOMIAL DISTRIBUTION & POISSON DISTRIBUTION, Make Me
