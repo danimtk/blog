@@ -69,9 +69,8 @@ I successively decided to divide this App in two main windows:
 -   In the first one, the user is welcomed and is asked to select the image classifier to use (in this case the "Inception Quantized Classifier"). Then, the user is asked to take a picture of the object they want to classify and finally the picture is cropped. In this case, it was necessary to crop the image since the Inception Classifier takes just squared images as inputs.
 -   In the second window, the user is finally ask to click on the "Classify Image" button in order to get in return the 3 most likely predictions made by the classifier.
 
-![](https://www.freecodecamp.org/news/content/images/2019/08/ezgif.com-optimize.gif)
-
-### Simple Android Image Classifier
+![](https://www.freecodecamp.org/news/content/images/2019/08/ezgif.com-optimize.gif) <br>
+<span class="figcaption_hack">Simple Android Image Classifier</span>
 
 In order to realise this project, I referenced Michael Shea and the TensorFlow Lite documentation implementations [3, 4].
 
