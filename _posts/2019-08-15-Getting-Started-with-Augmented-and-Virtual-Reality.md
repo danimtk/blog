@@ -81,7 +81,7 @@ In order to get started with A-Frame, we can use [CopePen](https://codepen.io/mo
 
 First of all, we need to load the A-Frame library in our HTML script.
 
-<script src="<https://aframe.io/releases/0.9.0/aframe.min.js>" </script>
+    <script src="<https://aframe.io/releases/0.9.0/aframe.min.js>" </script>
 
 In this example, I will create an interactive picture which we can rotate 360° in a virtual environment.
 
@@ -92,6 +92,8 @@ To do so, I divided the code below in 5 main sections:
 3.  Adding animations to the image.
 4.  Adding a text banner to welcome the user to the application.
 5.  Enabling Camera and Mouse Cursor interactions to add interactivity with the virtual environment.
+
+<script src="https://gist.github.com/pierpaolo28/2fcbab0f7d6f058811c1d76476fd93b5.js"></script>
 
 As a result, the following animation has been created:
 
