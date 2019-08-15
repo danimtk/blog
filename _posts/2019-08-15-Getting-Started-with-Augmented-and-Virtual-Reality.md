@@ -41,6 +41,12 @@ There are different types of Augmented Reality applications, these are [4]:
 
 Augmented reality can be used in many different contexts and applications. For example, this summer I decided to create a personal AR Business Card since this is going to be my last year of studies at the University of Southampton. 
 
+<div>
+  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/embed/-vswyZpXOtE?rel=0" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 This AR application was created using [AR.js](https://github.com/jeromeetienne/AR.js), a Javascript library made by Jerome Etienne.
 
 If you are interested in developing your own AR application, this is possible to do also using [Unity Vuforia](https://www.youtube.com/watch?v=MtiUx_szKbI&list=WL&index=93&t=0s) or A-Frame (as shown in a practical example at the end of this article).
@@ -88,6 +94,12 @@ To do so, I divided the code below in 5 main sections:
 5.  Enabling Camera and Mouse Cursor interactions to add interactivity with the virtual environment.
 
 As a result, the following animation has been created:
+
+<div>
+  <iframe align="middle" width="650" height="500" src="https://www.youtube.com/embed/DFpKcR7n6VA?rel=0" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 If you are interested to test yourself this application, just open [this CodePen link](https://codepen.io/pierpaolo28/pen/pMeJKQ) while browsing on your smartphone!
 
