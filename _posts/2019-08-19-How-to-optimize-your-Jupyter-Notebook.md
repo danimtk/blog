@@ -4,6 +4,7 @@ permalink: /blog18/
 ---
 
 ![How to optimize your Jupyter Notebook](https://www.freecodecamp.org/news/content/images/size/w2000/2019/08/1_m87_Htb_9Pstq0UcvNJ49w.png)
+
 # How to optimize your Jupyter Notebook
 
 ### Introduction
