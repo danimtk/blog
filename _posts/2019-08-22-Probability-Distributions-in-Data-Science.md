@@ -37,6 +37,8 @@ Throughout this article, I will provide code snippets on how to create each of t
 
 First of all, let's import all the necessary libraries:
 
+<script src="https://gist.github.com/pierpaolo28/edbaa5d3e777d15a62bc6c2a67fdb54c.js"></script>
+
 ### Bernoulli Distribution
 
 The Bernoulli distribution is one of the easiest distributions to understand and can be used as a starting point to derive more complex distributions.
@@ -47,6 +49,8 @@ A simple example can be a single toss of a biased/unbiased coin. In this example
 
 In Figure 2, I provided an example of Bernoulli distribution in the case of a biased coin.
 
+<script src="https://gist.github.com/pierpaolo28/4ccd9c9884d3919a9f034474019239cf.js"></script>
+
 ![](https://cdn-images-1.medium.com/max/800/1*E86HJS-KN2LsPmO7JIzM6g.png) <br>
 Figure 2: Bernoulli distribution biased coin
 
@@ -55,6 +59,8 @@ Figure 2: Bernoulli distribution biased coin
 The Uniform Distribution can be easily derived from the Bernoulli Distribution. In this case, a possibly unlimited number of outcomes are allowed and all the events hold the same probability to take place. 
 
 As an example, imagine the roll of a fair dice. In this case, there are multiple possible events which each of them having the same probability to happen.
+
+<script src="https://gist.github.com/pierpaolo28/62b8c7e75a539f39ed90041884eda815.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*kkBsFaVJ4Vq6M2DTESGHkQ.png)<br>
 Figure 3: Fair Dice Roll Distribution
@@ -66,6 +72,8 @@ The Binomial Distribution can instead be thought as the sum of outcomes of an ev
 A simple example of a Binomial Distribution in action can be the toss of a biased/unbiased coin repeated a certain amount of times.
 
 Varying the amount of bias will change the way the distribution will look like (Figure 4).
+
+<script src="https://gist.github.com/pierpaolo28/f79f4578a87bc606dee57b219fbf0a73.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*9xnGfsDjY46UMS_caXD_cQ.png)<br>
 Figure 4: Binomial Distribution varying event occurrence probability
@@ -87,6 +95,8 @@ The Normal Distribution is one of the most used distributions in Data Science. M
 > "In probability theory, the **central limit theorem** (**CLT**) establishes that, in some situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed."
 
 > --- [Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem)
+
+<script src="https://gist.github.com/pierpaolo28/ef8bf77768dd59a931181a84b3bc476b.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZQ7Iwqx53bbBtivNC_r4hA.png)<br>
 Figure 6: Gaussian Distribution
@@ -137,6 +147,8 @@ The main characteristics which describe Poisson Processes are:
 
 In Figure 10, is shown how varying the expected number of events which can take place in a period (λ) can change a Poisson Distribution.
 
+<script src="https://gist.github.com/pierpaolo28/49e4b8688a0e5c97289e9ebf5ba05f37.js"></script>
+
 ![](https://cdn-images-1.medium.com/max/800/1*DB4GvCN_DuZvCB6KLn2KqQ.png)<br>
 Figure 10: Poisson Distribution varying λ
 
@@ -149,6 +161,8 @@ As an example, let's imagine we work at a restaurant and we want to predict what
 Another common application of Exponential distributions is survival analysis (eg. expected life of a device/machine).
 
 Exponential distributions are regulated by a parameter λ. The greater the value of λ and the faster the exponential curve is going to decade (Figure 11).
+
+<script src="https://gist.github.com/pierpaolo28/62622bde46dcb3ca3242f47f82b349cf.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*ShdEzf-JKtd5yG1Uhl102Q.png)<br>
 Figure 11: Exponential Distribution
