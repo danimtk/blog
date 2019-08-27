@@ -21,7 +21,7 @@ During the last few years, Internet of Things (IoT) devices have started becomin
 
 According to Wikipedia, IoT devices are defined as:
 
-> "The **Internet of things** (**IoT**) is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled "                                            --   Wikipedia [1]
+> "The **Internet of things** (**IoT**) is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled "                                                   --   Wikipedia [1]
 
 One of the most interesting characteristics of IoT devices is that they are able to produce large amounts of data. This can be particularly used in applications such as Artificial Intelligence and Machine Learning.
 
