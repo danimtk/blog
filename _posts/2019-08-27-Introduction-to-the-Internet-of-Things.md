@@ -21,7 +21,7 @@ During the last few years, Internet of Things (IoT) devices have started becomin
 
 According to Wikipedia, IoT devices are defined as:
 
-> "The **Internet of things** (**IoT**) is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled "                                                                                                        --   Wikipedia [1]
+> "The **Internet of things** (**IoT**) is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors), these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled "                                                              --   Wikipedia [1]
 
 One of the most interesting characteristics of IoT devices is that they are able to produce large amounts of data. This can be particularly used in applications such as Artificial Intelligence and Machine Learning.
 
@@ -80,10 +80,10 @@ Microsoft Azure is another really important cloud services provider. Azure is ab
 
 AWS is one of the most popular solution for cloud based services. AWS can enable to perform IoT projects from end to end and making use of the four following packages:
 
--   **AWS IoT Core: **is the basic package which can be used to set up IoT devices. Using IoT Core we can integrate different devices to communicate each other over a secured connection making possible to exchange data through cloud storage.
--   **AWS IoT Analytics: **is used to process and analyse all the data produced by IoT devices. Once all the data is stored using a semi-structured format (eg. JSON, CSV) it can be then used for Machine Learning purposes (eg. monitor and optimise the interaction between IoT devices).
--   **AWS IoT Device Defender: **is used to construct and personalise the security mechanisms of IoT devices (such as choosing device authentication and data encryption).
--   **AWS IoT Device Management: **enables to easily integrate new IoT devices to an environment and monitor/update their functionalities.
+-   **AWS IoT Core:** is the basic package which can be used to set up IoT devices. Using IoT Core we can integrate different devices to communicate each other over a secured connection making possible to exchange data through cloud storage.
+-   **AWS IoT Analytics:** is used to process and analyse all the data produced by IoT devices. Once all the data is stored using a semi-structured format (eg. JSON, CSV) it can be then used for Machine Learning purposes (eg. monitor and optimise the interaction between IoT devices).
+-   **AWS IoT Device Defender:** is used to construct and personalise the security mechanisms of IoT devices (such as choosing device authentication and data encryption).
+-   **AWS IoT Device Management:** enables to easily integrate new IoT devices to an environment and monitor/update their functionalities.
 
 Conclusion
 ----------
