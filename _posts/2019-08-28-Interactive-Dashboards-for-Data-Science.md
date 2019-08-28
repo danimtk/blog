@@ -74,7 +74,7 @@ If you are interested in adding more features to this App, on [my GitHub reposit
 
 ### Demonstration
 
-First of all, we need to create a Python file called **a*pp.py***and import all the required dependencies. In this file, we will write all the code necessary to launch our Dashboard.
+First of all, we need to create a Python file called **a*pp.py*** and import all the required dependencies. In this file, we will write all the code necessary to launch our Dashboard.
 
 <script src="https://gist.github.com/pierpaolo28/55fef8332fad2e3630d0f3e112babc73.js"></script>
 
@@ -100,7 +100,7 @@ The code below can be divided in 3 main sections: a High-Low Stock Prices Time S
 
 The first two sections are really similar, in fact, they are designed to create the same type of graph. The only difference is that in the second graph just one feature is considered instead of two.
 
-In each of the 3 sections, the callbacks (***@app.callback***) are used to take the selected values from the dropdowns, send them as input to the graph function and then take the variable returned by the function to pass it to the graph declared in the layout. These callbacks will automatically get called every-time the values in the dropdowns changes. The callbacks can automatically identify which of the different dropdowns available on the Dashboard changed value and which graph to subsequently update thanks to the unique ***id*** values set before in the Dashboard Layout.
+In each of the 3 sections, the callbacks (***@app.callback***) are used to take the selected values from the dropdowns, send them as input to the graph function and then take the variable returned by the function to pass it to the graph declared in the layout. These callbacks will automatically get called every-time the values in the dropdowns changes. The callbacks can automatically identify which of the different dropdowns available on the Dashboard changed value and which graph to subsequently update thanks to the unique ***id***   values set before in the Dashboard Layout.
 
 Each of the three functions shown below use [Plotly syntax](https://plot.ly/python/) to create the graphs. If you have never used Plotly before, in one of my previous articles I have already talked about [Interactive Data Visualization](https://towardsdatascience.com/interactive-data-visualization-167ae26016e8).
 
