@@ -9,8 +9,7 @@ permalink: /blog22/
 
 # SQL For Data Science
 
-## SQL is one of the most requested skills in Data Science. Let’s find out how it
-can be used in Data processing and Machine Learning using BigQuery.
+## SQL is one of the most requested skills in Data Science. Let’s find out how it can be used in Data processing and Machine Learning using BigQuery.
 
 ### Introduction
 
@@ -41,7 +40,7 @@ One of the main advantages of using SQL, is that when performing operations with
 data, this is accessed directly (without any need to copy it beforehand). This
 can considerably speed up workflow executions.
 
-![](https://cdn-images-1.medium.com/max/800/1*25mU6KkernbAayymO0HJhA.png)
+![](https://cdn-images-1.medium.com/max/800/1*25mU6KkernbAayymO0HJhA.png) <br>
 <span class="figcaption_hack">Figure 1: Most Requested Data Science Skills, June 2019 [1]</span>
 
 There exist many different SQL databases such as: SQLite, MySQL, Postgres,
@@ -75,7 +74,7 @@ and an instance of the project on our Google service. You can find [here a
 guide](https://www.youtube.com/watch?v=_YYqfS7rLUo&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp)
 on how to get started in just a few minutes.
 
-![](https://cdn-images-1.medium.com/max/1200/1*K4UVO_08NgmzH14kwHUlEg.png)
+![](https://cdn-images-1.medium.com/max/1200/1*K4UVO_08NgmzH14kwHUlEg.png) <br>
 <span class="figcaption_hack">Figure 2: Enabling BigQuery on Kaggle Kernels</span>
 
 Once created a BigQuery project on Google Account Platform we will then be given
@@ -90,7 +89,7 @@ contains information about air quality data from around the world.
 
 <script src="https://gist.github.com/pierpaolo28/c71a7a5ff82b9cc21f35b88af6ee8f15.js"></script>
 
-![](https://cdn-images-1.medium.com/max/1200/1*pIG0djG0Q4O3tr5oSU4X8g.png)
+![](https://cdn-images-1.medium.com/max/1200/1*pIG0djG0Q4O3tr5oSU4X8g.png) <br>
 <span class="figcaption_hack">Figure 3: OpenAQ Dataset</span>
 
 ### Data Pre-processing
@@ -107,7 +106,7 @@ Finally, we group our results by country and order them in descending order.
 
 The first ten results are shown in Figure 4.
 
-![](https://cdn-images-1.medium.com/max/800/1*LgXoz4F07fF0lnhhetcPrg.png)
+![](https://cdn-images-1.medium.com/max/800/1*LgXoz4F07fF0lnhhetcPrg.png) <br>
 <span class="figcaption_hack">Figure 4: Number of measure stations in each country</span>
 
 Afterwards, we can try to examine some statistical characteristics of the Value
@@ -120,7 +119,7 @@ averaged over.
 
 <script src="https://gist.github.com/pierpaolo28/bb0943094f11edff50771285796e7645.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*-303mdRFUSpMleejgBdTvA.png)
+![](https://cdn-images-1.medium.com/max/800/1*-303mdRFUSpMleejgBdTvA.png) <br>
 <span class="figcaption_hack">Figure 5: Value and Averaged Over In Hours columns statistical summary</span>
 
 Finally, to conclude our brief analysis, we can calculate the average value of
@@ -129,7 +128,7 @@ Matplotlib to summarise our results (Figure 6).
 
 <script src="https://gist.github.com/pierpaolo28/25e0f8836e08913be68583ebd07d6fbb.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*RN02E2QIJxJw_6Se-8qD7A.png)
+![](https://cdn-images-1.medium.com/max/800/1*RN02E2QIJxJw_6Se-8qD7A.png) <br>
 <span class="figcaption_hack">Figure 6: Average value of Ozone in each different country </span>
 
 ### Machine Learning
@@ -175,7 +174,7 @@ following commands (Figure 7).
 
 <script src="https://gist.github.com/pierpaolo28/e7253601cf0d1e22364daba0221e8e2e.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*TYYA86zkezxEGIruRGMMyw.png)
+![](https://cdn-images-1.medium.com/max/800/1*TYYA86zkezxEGIruRGMMyw.png) <br>
 <span class="figcaption_hack">Figure 7: Logistic Regression Training Summary</span>
 
 Finally, we can evaluate the accuracy of our model performance using BigQuery
@@ -183,7 +182,7 @@ ML.EVALUETE function (Figure 8).
 
 <script src="https://gist.github.com/pierpaolo28/7acf1269ab184c24bad42ebd658cde99.js"></script>
 
-![](https://cdn-images-1.medium.com/max/800/1*KtRsGM75f8_XB0fuzmzKGQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*KtRsGM75f8_XB0fuzmzKGQ.png) <br>
 <span class="figcaption_hack">Figure 8: BigQuery ML model evaluation</span>
 
 ### Conclusion
