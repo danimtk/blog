@@ -59,17 +59,14 @@ load all the necessary libraries in just one line of code.
 
 The imported packages are used to add the following functionalities:
 
-* **dplyr: **data processing and analysis.
-* **ggplot2: **data visualization.
-* **rio: **data import and export.
-* **gridExtra: **to make plots graphical objects to which can be freely arranged
-on a page.
-* **scales: **used to scale data in plots.
-* **ggcorrplot: **is used to** **visualize correlation matrices using ggplot2 in
-the backend.
-* **caret: **is used to** **train and plot classification and regression models.
-* **e1071: **contains functions to perform Machine Learning algorithms such as
-Support Vector Machines, Naive Bayes, etc…
+* **dplyr:** data processing and analysis.
+* **ggplot2:** data visualization.
+* **rio:** data import and export.
+* **gridExtra:** to make plots graphical objects to which can be freely arranged on a page.
+* **scales:** used to scale data in plots.
+* **ggcorrplot:** is used to visualize correlation matrices using ggplot2 in the backend.
+* **caret:** is used to train and plot classification and regression models.
+* **e1071:** contains functions to perform Machine Learning algorithms such as Support Vector Machines, Naive Bayes, etc…
 
 #### Data Pre-processing
 
@@ -86,10 +83,10 @@ The summary function provides us with a brief statistical description of each
 feature in our dataset. Depending on the nature of the feature in consideration,
 different statistics will be provided:
 
-* **Numeric Features: **Mean, Median, Mode, Range and Quartiles.
-* **Factor Features: **Frequencies.
-* **A mixture of Factor and Numeric Features: **Number of missing values.
-* **Character Features: **Lenght of the class.
+* **Numeric Features:** Mean, Median, Mode, Range and Quartiles.
+* **Factor Features:** Frequencies.
+* **A mixture of Factor and Numeric Features:** Number of missing values.
+* **Character Features:** Lenght of the class.
 
 Factors are a type of data object used in R to categorize and store data (eg.
 integers or strings) as levels. They can, for example, be used to one hot encode
