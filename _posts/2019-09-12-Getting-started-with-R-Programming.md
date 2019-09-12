@@ -9,8 +9,7 @@ permalink: /blog23/
 
 # Getting started with R Programming
 
-## An end to end Data Analysis using R, the second most requested programming
-language in Data Science. 
+## An end to end Data Analysis using R, the second most requested programming language in Data Science. 
 
 ### Introduction
 
