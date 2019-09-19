@@ -4,7 +4,7 @@ permalink: /blog24/
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*F5mjzSrpMkdrv6oVAEqqwg.jpeg)
-<span class="figcaption_hack">(Source:
+<span class="figcaption_hack"> (Source:
 [https://www.thegreatcourses.com/media/catalog/product/cache/1/plus_image/800x451/0f396e8a55728e79b48334e699243c07/1/4/1426.1549051731.jpg](https://www.thegreatcourses.com/media/catalog/product/cache/1/plus_image/800x451/0f396e8a55728e79b48334e699243c07/1/4/1426.1549051731.jpg))</span>
 
 # Game Theory in Artificial Intelligence
@@ -41,21 +41,21 @@ how good was the second player to identify the best decision boundary).
 
 Game Theory can be divided into 5 main types of games:
 
-* **Cooperative vs Non-Cooperative Games: **In cooperative games, participants can
+* **Cooperative vs Non-Cooperative Games:** In cooperative games, participants can
 establish alliances in order to maximise their chances to win the game (eg.
 negotiations). In non-cooperative games, participants can’t instead form
 alliances (eg. wars).
-* **Symmetric vs Asymmetric Games: **In a symmetric game all the participants have
+* **Symmetric vs Asymmetric Games:** In a symmetric game all the participants have
 the same goals and just their strategies implemented in order to achieve them
 will determine who wins the game (eg. chess). In asymmetric games instead, the
 participants have different or conflicting goals. 
-* **Perfect vs Imperfect Information Games: **In Perfect Information games all the
+* **Perfect vs Imperfect Information Games:** In Perfect Information games all the
 players can see the other players moves (eg. chess). Instead, in Imperfect
 Information games, the other players' moves are hidden (eg. card games).
-* **Simultaneous vs Sequential Games: **In Simultaneous games, the different
+* **Simultaneous vs Sequential Games:** In Simultaneous games, the different
 players can take actions concurrently. Instead in Sequential games, each player
 is aware of the other players' previous actions (eg. board games).
-* **Zero-Sum vs  Non-Zero Sum Games: **In Zero Sum games, if a player gains
+* **Zero-Sum vs  Non-Zero Sum Games:** In Zero Sum games, if a player gains
 something that causes a loss to the other players. In Non-Zero Sum games,
 instead, multiple players can take benefit of the gains of another player.
 
