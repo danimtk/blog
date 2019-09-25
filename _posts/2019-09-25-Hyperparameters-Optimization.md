@@ -163,7 +163,7 @@ We can now start implementing  Random Search by first defying a grid of
 hyperparameters which will be randomly sampled when calling
 **RandomizedSearchCV()**. For this example, I decided to divide our training set
 into 4 Folds (**cv = 4**) and select 80 as the number of combinations to sample
-(**n_iter = 80**). Using the scikit-learn **best_estimator_ **attribute, we can
+(**n_iter = 80**). Using the scikit-learn **best_estimator_** attribute, we can
 then retrieve the set of hyperparameters which performed best during training to
 test our model.
 
@@ -222,8 +222,8 @@ In order to choose the parameters to use in Grid Search, we can now look at
 which parameters worked best with Random Search and form a grid based on them to
 see if we can find a better combination.
 
-Grid Search can be implemented in Python using scikit-learn **GridSearchCV()
-**function. Also on this occasion, I decided to divide our training set into 4
+Grid Search can be implemented in Python using scikit-learn **GridSearchCV()** 
+function. Also on this occasion, I decided to divide our training set into 4
 Folds (**cv = 4**).
 
 When using Grid Search, all the possible combinations of the parameters in the
