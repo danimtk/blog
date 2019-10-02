@@ -8,14 +8,14 @@ permalink: /blog26/
 Jerez](https://unsplash.com/@danieljerez?utm_source=medium&utm_medium=referral)
 on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</span>
 
-# Optimal Estimation Algorithms: Kelman and Particle Filters
+# Optimal Estimation Algorithms: Kalman and Particle Filters
 
-## An introduction to the Kelman and Particle Filters and their applications in fields such as Robotics and Reinforcement Learning. 
+## An introduction to the Kalman and Particle Filters and their applications in fields such as Robotics and Reinforcement Learning. 
 
 ### Optimal Estimation Algorithms
 
 Optimal Estimation Algorithms plays a really important role in our everyday
-life. Today, I will introduce you to two of them (Kelman and Particle Filters)
+life. Today, I will introduce you to two of them (Kalman and Particle Filters)
 using some practical examples.
 
 Let’s imagine we are driving in a driverless car, and we are about to go through
