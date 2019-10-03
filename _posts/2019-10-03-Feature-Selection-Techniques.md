@@ -274,7 +274,7 @@ correlated with the output variable.
 We can now try to take a closer look at the relationship between the different
 correlated features by creating a Correlation Matrix.
 
-<script src="https://gist.github.com/pierpaolo28/8c40596eded6815a8253cf7124da4b42.js"></script>
+<script src="https://gist.github.com/pierpaolo28/0f9c649145b513d2f3ce6c778a38d275.js"></script>
 
 ![](https://cdn-images-1.medium.com/max/800/1*rMfngUsPHsE716_U71FYCg.png) <br>
 <span class="figcaption_hack">Figure 6: Correlation Matrix of highest correlated features</span>
