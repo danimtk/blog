@@ -19,7 +19,7 @@ In this article, I will be considering Microsoft as case study as Microsoft CEO
 Satya Nadella recently shared Microsoft interest to make AI a vital part of
 their business [1]. 
 
-> *“To be the leader in it, it's not enough just to sort of have AI capability
+> “To be the leader in it, it's not enough just to sort of have AI capability
 > that we can exercise—you also need the ability to democratise it so that every
 business can truly benefit from it.”                     - Satya Nadella
 
