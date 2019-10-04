@@ -21,7 +21,7 @@ their business [1].
 
 > “To be the leader in it, it's not enough just to sort of have AI capability
 > that we can exercise—you also need the ability to democratise it so that every
-business can truly benefit from it.”                     - Satya Nadella
+business can truly benefit from it.”                                - Satya Nadella
 
 ![](https://www.freecodecamp.org/news/content/images/2019/10/stacking-up-cloud-vendors-2018-right-scale-1.png) <br>
 <span class="figcaption_hack">Figure 1: 2018 Top Cloud Providers [2]</span>
