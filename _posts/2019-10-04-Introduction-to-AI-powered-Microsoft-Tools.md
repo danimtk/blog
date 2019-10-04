@@ -56,7 +56,7 @@ without any type of constraint or environmental set up.
 
 #### Azure Machine Learning Studio
 
-Azure Machine Learning Studio enables to perform Machine Learning tasks without
+Azure Machine Learning Studio enables users to perform Machine Learning tasks without
 needing any programming experience. 
 
 ML models are created and tested just using a visual interface by dragging and
@@ -141,7 +141,7 @@ model ability to correctly make predictions (eg. favourite a class compared to
 another). Testing a trained model using a Bias-detection tool, could therefore
 be of great help to minimise this risk.
 
-In the meantime also other companies such as Facebook and IBM are currently
+In the meantime, also other companies such as Facebook and IBM are currently
 working on implementing a similar tools for their corresponding businesses [6,
 7]. 
 
