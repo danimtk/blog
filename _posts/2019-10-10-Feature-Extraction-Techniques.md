@@ -137,8 +137,10 @@ animations using
 [Plotly](https://towardsdatascience.com/interactive-data-visualization-167ae26016e8)
 (feel free to interact with the animation below!).
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/PCA.embed"></iframe>
+
 While using PCA, we can also explore how much of the original data variance was
-preserved using the **explained_variance_ratio_ **Scikit-learn function. Once
+preserved using the **explained_variance_ratio_** Scikit-learn function. Once
 calculated the variance ratio, we can then go on creating fancy visualization
 graphs.
 
@@ -204,6 +206,8 @@ accuracy using a Random Forest Classifier and plot the results.
 From the animation below we can see that even though PCA and ICA led to the same
 accuracy results, they constructed two different 3-Dimensional space
 distribution.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/ICA.embed"></iframe>
 
 #### Linear Discriminant Analysis (LDA)
 
@@ -313,6 +317,8 @@ dimensions, test the overall accuracy and plot the results.
        macro avg       0.76      0.51      0.36      2438
     weighted avg       0.75      0.53      0.38      2438
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/LLE.embed"></iframe>
+
 #### t-distributed Stochastic Neighbor Embedding (t-SNE)
 
 t-SNE is non-linear dimensionality reduction technique which is typically used
@@ -357,6 +363,8 @@ Visualizing the distribution of the resulting features we can clearly see how
 our data has been nicely separated even though being transformed in a reduced
 space.
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/t-SNE.embed"></iframe>
+
 Testing our Random Forest accuracy using the t-SNE reduced subset confirms that
 now our classes can be easily separated.
 
@@ -381,7 +389,7 @@ transformations to project data from a high dimension to a lower one.
 
 There exist different types of Autoencoders such as: 
 
-* **Denoising Autoencoder **
+* **Denoising Autoencoder**
 * **Variational Autoencoder**
 * **Convolutional Autoencoder**
 * **Sparse Autoencoder**
@@ -419,6 +427,8 @@ similar to if we would have used PCA).
 
 We can now repeat a similar workflow as in the previous examples, this time
 using a simple Autoencoder as our Feature Extraction Technique.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/AE.embed"></iframe>
 
 <script src="https://gist.github.com/pierpaolo28/85b9a5e9c59ab42e3ed3bcf4f2f45d17.js"></script>
 
