@@ -3,7 +3,7 @@ layout: post
 permalink: /blog29/
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*dn6881AU9C06if2SZJZRag.gif)
+![](https://cdn-images-1.medium.com/max/800/1*dn6881AU9C06if2SZJZRag.gif) <br>
 <span class="figcaption_hack">(Source:
 [https://blog.datasciencedojo.com/curse-of-dimensionality-python/](https://blog.datasciencedojo.com/curse-of-dimensionality-python/))</span>
 
