@@ -241,13 +241,13 @@ different features if they all have different ranges.
 
 Two common ways of scaling features are:
 
-* **Standardization: **scales the input features while taking into account their
+* **Standardization:** scales the input features while taking into account their
 standard deviation (using Standardization our transformed features will look
 similar to a Normal Distribution). This method can reduce outliers importance
 but can lead to different ranges between features because of differences in the
 standard deviation. Standardization can be implemented in scikit-learn by using
 [StandardScaler()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html).
-* **Normalization: **scales all the features in a range between 0 and 1 but can
+* **Normalization:** scales all the features in a range between 0 and 1 but can
 increase the effect of outliers because the standard deviation of each of the
 different features is not taken into account. Normalization can be implemented
 in scikit-learn by using
