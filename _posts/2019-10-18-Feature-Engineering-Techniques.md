@@ -48,7 +48,7 @@ numbers, outlier values, scaling issues, …).
 
 <script src="https://gist.github.com/pierpaolo28/78ed98e2c01e20a1b6f23dc3d6716bce.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*MUn1-8Jg8AWF4ounzdPVfw.png)
+![](https://cdn-images-1.medium.com/max/2000/1*MUn1-8Jg8AWF4ounzdPVfw.png) <br>
 <span class="figcaption_hack">Figure 1: Dataset Head</span>
 
 #### Log Transform
@@ -67,7 +67,7 @@ positive values).
 
 <script src="https://gist.github.com/pierpaolo28/d8c75ed75bd31f74025090c9bcda3687.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*j8LVuDLzk70Ss003dwIuRg.png)
+![](https://cdn-images-1.medium.com/max/2000/1*j8LVuDLzk70Ss003dwIuRg.png) <br>
 <span class="figcaption_hack">Figure 2: Logarithmically Transformed Dataset</span>
 
 #### Imputation
@@ -96,7 +96,7 @@ Number) by running the following few lines.
 
 <script src="https://gist.github.com/pierpaolo28/f6d83bb7c092a6b55bbc19592122fc1c.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*qDUYyoU3JgYg6_bJuPCSlQ.png)
+![](https://cdn-images-1.medium.com/max/2000/1*qDUYyoU3JgYg6_bJuPCSlQ.png) <br>
 <span class="figcaption_hack">Figure 3: Percentage of NaNs in each Feature</span>
 
 One of the easiest methods to deal with Missing Numbers could be to remove all
@@ -106,7 +106,7 @@ threshold.
 
 <script src="https://gist.github.com/pierpaolo28/079a79a3172ccb377fc76dd8016f4160.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*hFpdFcdFux5v8vk3SJzzHQ.png)
+![](https://cdn-images-1.medium.com/max/2000/1*hFpdFcdFux5v8vk3SJzzHQ.png) <br>
 <span class="figcaption_hack">Figure 4: Imputation by deleting features with excessive NaNs</span>
 
 Another possible solution could be to replace all the NaNs with the column mode
@@ -114,7 +114,7 @@ for both our numerical and categorical data.
 
 <script src="https://gist.github.com/pierpaolo28/6854d70281adf1f03a8b8c8bdee411bc.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*gxze2yfVe6n_vWEHZ-yh9g.png)
+![](https://cdn-images-1.medium.com/max/2000/1*gxze2yfVe6n_vWEHZ-yh9g.png) <br>
 <span class="figcaption_hack">Figure 5: Imputation using column mode</span>
 
 #### Dealing With Dates
@@ -130,7 +130,7 @@ columns: Year, Month and Day.
 
 <script src="https://gist.github.com/pierpaolo28/43fdb1217b494d9f6cf0c81657ccf1d3.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*xng97NxC5Hx5C7BliwDbqQ.png)
+![](https://cdn-images-1.medium.com/max/2000/1*xng97NxC5Hx5C7BliwDbqQ.png) <br>
 <span class="figcaption_hack">Figure 6: Dealing with Dates</span>
 
 #### Outliers
@@ -168,7 +168,7 @@ Going on with our example, we can start by looking at our two left numerical
 features (X2, X3). By creating a simple BoxPlot using Seaborn, we can clearly
 see that X2 has some outlier values. 
 
-![](https://cdn-images-1.medium.com/max/2000/1*Fv6VXKdn9O_sxtWujVBNGA.png)
+![](https://cdn-images-1.medium.com/max/2000/1*Fv6VXKdn9O_sxtWujVBNGA.png) <br>
 <span class="figcaption_hack">Figure 7: Examining Outliers using Data Visualization</span>
 
 Using both the Z-score (with a factor of 2) and the Percentiles methods, we can
@@ -194,7 +194,7 @@ accuracy).
 
 <script src="https://gist.github.com/pierpaolo28/1115040e473c3c71362659860568a1fe.js"></script>
 
-![](https://cdn-images-1.medium.com/max/2000/1*NSkqxTCr7EHFO4PnLyImDw.png)
+![](https://cdn-images-1.medium.com/max/2000/1*NSkqxTCr7EHFO4PnLyImDw.png) <br>
 <span class="figcaption_hack">Figure 8: Binning Numeric and Categoric Data</span>
 
 #### Categorical Data Encoding
@@ -221,7 +221,7 @@ which have higher values than the other ones might be more important of them
 (thinking about them as in hierarchical order). This doesn’t instead happen when
 using One Hot Encoding.
 
-![](https://cdn-images-1.medium.com/max/2600/1*ezGOW_jDDvZ9jCjHTj7hLg.jpeg)
+![](https://cdn-images-1.medium.com/max/2600/1*ezGOW_jDDvZ9jCjHTj7hLg.jpeg) <br>
 <span class="figcaption_hack">Figure 9: Difference between One Hot Encoding and Label Encoding [1]</span>
 
 We can now go on dividing our dataset into features (**X**) and labels (**Y**)
