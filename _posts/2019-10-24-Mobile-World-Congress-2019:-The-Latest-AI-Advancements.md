@@ -9,8 +9,7 @@ permalink: /blog31/
 
 # Mobile World Congress 2019: The Latest AI Advancements
 
-## A review of some of the latest AI advancements from the 2019 Los Angeles Mobile
-World Congress.
+## A review of some of the latest AI advancements from the 2019 Los Angeles Mobile World Congress.
 
 ### Introduction
 
