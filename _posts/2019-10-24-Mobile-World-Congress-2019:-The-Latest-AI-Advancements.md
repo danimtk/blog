@@ -38,7 +38,7 @@ Samsung and BMW.
 EGX was made possible thanks to the combination of three main technologies:
 Artificial Intelligence, the Internet of Things and 5G. 
 
-* **Internet of Things: **Smart devices are nowadays becoming more and more
+* **Internet of Things:** Smart devices are nowadays becoming more and more
 common. IoT is commonly used by industries to harness data remotely and make
 smart decisions using the gathered information. One of the main problems of
 using IoT devices in industrial applications has always been the need to fast
@@ -48,7 +48,7 @@ changes in the environment and report anomalies back to the Cloud. If you are
 interested in finding out more in details about how IoT devices works,
 additional information are available
 [here](https://www.freecodecamp.org/news/introduction-to-iot-internet-of-things/).
-* **Artificial Intelligence: **AI is used in IoT devices to process the gathered
+* **Artificial Intelligence:** AI is used in IoT devices to process the gathered
 data. The captured data can be of many different forms depending on the
 applications. Some examples are: time series data, camera recording and anomaly
 detection. In IoT applications, it then becomes really important to make the
@@ -56,7 +56,7 @@ best use of memory and processing power needed to run our AI models. Therefore,
 depending on the application, it can be possible to perform our AI data
 processing either locally (if there are privacy-related concerns) or on the
 Cloud (enabling us to make use of more advanced AI models).
-* **5G: **Finally, 5G can now enable us to consistently speed up the communication
+* **5G:** Finally, 5G can now enable us to consistently speed up the communication
 between our IoT devices and the Cloud. This can, therefore, enable us to run
 more sophisticated applications on the Cloud such as online gaming and
 Augmented/Virtual reality powered applications.
