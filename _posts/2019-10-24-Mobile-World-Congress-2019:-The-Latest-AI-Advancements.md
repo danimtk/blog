@@ -20,7 +20,7 @@ AI-powered applications.
 
 ### 5G AI-Powered Applications
 
-#### NVIDIA **EGX**
+#### NVIDIA EGX
 
 One of the most important announcements made by NVIDIA at the Mobile World
 Congress is [EGX (Edge Computing
