@@ -23,6 +23,9 @@ I am a final year MSc in Artificial Intelligence student at the University of So
 
 [Personal Blog Android App](pierblog.apk)
 
+[Research Gate](https://www.researchgate.net/profile/Pier_Paolo_Ippolito)
+
+[Google Scholar](https://scholar.google.com/citations?user=QgG-lgwAAAAJ&hl=en&oi=ao)
 
 <style>
   * {box-sizing: border-box;}
