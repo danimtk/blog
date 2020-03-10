@@ -53,11 +53,11 @@ As a simple example, let’s imagine we know that a genotype represented by a bi
 
 In order to implement our Hill Climber, we first need to create a function we can use to mutate our individuals. In this case, we will allow for a 30% probability that each of our individual bits might mutate.
 
- <iframe src="https://medium.com/media/2483ce5d50d09f53b837a3e3b150baea" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/8ae859dcecddb0f875fca9334b032f0e.js"></script>
 
 Finally, we can now create our Hill Climber and test it giving as input an individual with an initial fitness level of zero.
 
- <iframe src="https://medium.com/media/71f5c822b060a90434c18ba2c77e3bdd" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/ef41af4baad2ce062194d7d790a6588e.js"></script>
 
     Fitness: 12  
     Resulting Individual: ['111111111111']
@@ -70,7 +70,7 @@ Evolutionary algorithms aim to solve this problem by using a population instead 
 
 These two additions can be implemented in Python (following our example of before) using the following two functions.
 
- <iframe src="https://medium.com/media/fabbcf908208e47695fd360e195172d0" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/5c44ab84748630338db3d759455c1c7c.js"></script>
 
 Since in this case, we have available an entire population of individuals, we can now make use of different techniques in order to decide which individuals are best to crossover and mutate in order to get closer to our final goal. Some examples of selection techniques are:
 
@@ -86,7 +86,7 @@ Finally, a fixed point is chosen on the wheel circumference and the wheel is rot
 
 A simple example of how to implement Fitness Proportionate Selection in Python is available below.
 
- <iframe src="https://medium.com/media/660ec1ea8b46e3e8da4afb1dd890a620" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/27f52ab18a823eb6b240c890821d5da7.js"></script>
 
 By using a population of 4 individuals and plotting the results, the graph in Figure 3 can be reproduced.
 
@@ -97,7 +97,7 @@ When using Fitness Proportionate Selection, if one of the elements has much high
 
 Rank selection ranks each individual based on its fitness (eg. the worst individual gets Rank 1, the second-worst Rank 2, and so on). Using this method, the shares on the wheel will, in fact, be more evenly distributed.
 
- <iframe src="https://medium.com/media/47dfd980f23973dccafe154fd31f9e9f" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/d2aeeda409a87717b33870135fe58413.js"></script>
 
 Plotting again the results using a population of 4 individuals, using this time Rank Based Selection, gives us the results shown in Figure 4.
 
@@ -106,17 +106,17 @@ Plotting again the results using a population of 4 individuals, using this time 
 
 Finally, we can use as an alternative method, Tournament Selection. In this case, we can select *N* individuals at random from the population and select the best out of these elements to become our chosen element. This same process can then be repeated iteratively, depending on the number of elements we want to select from the population.
 
- <iframe src="https://medium.com/media/8c43f1967815041b88f6a273bef4797f" frameborder=0></iframe>
+ <script src="https://gist.github.com/pierpaolo28/b5a2c4578e19b62e14bbe3b0a916c732.js"></script>
 
 Now, we finally have all the necessary elements in order to create our evolutionary algorithm. There are two main types of evolutionary algorithm which can be implemented: Steady-State (reproduction with replacement) and Generational (reproduction without replacement).
 
 In steady-state algorithms, once we generate new offsprings, they are immediately put back into the original population and some less fit elements are discarded in order to keep the population size constant. An example of a steady-state evolutionary algorithm using Rank Based Selection is provided below.
 
- <iframe src="https://medium.com/media/dab21d01949eea94f86aa4d5de5866f9" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/92a53473e1b0ec2ef75ca2d6ba0e779c.js"></script>
 
 In generational evolutionary algorithms, once new offsprings are generated are instead put into a new population. After a predetermined number of generations, this new population becomes our current population. An example of a generational evolutionary algorithm using Rank Based Selection is provided below.
 
- <iframe src="https://medium.com/media/e0af1b357134691d0edba353819de186" frameborder=0></iframe>
+<script src="https://gist.github.com/pierpaolo28/b71b81c74486510b856dde295594cdbc.js"></script>
 
 ### TPOT
 
