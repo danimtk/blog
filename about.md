@@ -21,6 +21,8 @@ I am a final year MSc in Artificial Intelligence student at the University of So
 
 [Kaggle](https://www.kaggle.com/pierpaolo28)
 
+[Support me on Patreon](https://www.patreon.com/user?u=32155890)
+
 [Personal Blog Android App](pierblog.apk)
 
 [Research Gate](https://www.researchgate.net/profile/Pier_Paolo_Ippolito)
