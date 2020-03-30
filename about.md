@@ -9,7 +9,7 @@ permalink: /about/
 ### Programmer, Data Scientist, ML Engineer & Web Developer
 ### AI enthusiast, fluent in Python, SQL and UIPATH
 
-I am a final year MSc in Artificial Intelligence student at the University of Southampton currently seeking a graduate role position from September 2020. I have a strong interest in AI advancements and machine learning applications (such as financial markets and medicine). Outside my degree course, I am a writer for Towards Data Science and a Kaggle Contributor.
+I am a final year MSc in Artificial Intelligence student at the University of Southampton and incoming SAS Data Scientist. I have a strong interest in AI advancements and machine learning applications (such as finance and medicine). Outside my degree course, I am a writer for Towards Data Science and a Kaggle Contributor. 
 
 ### Contact me
 
