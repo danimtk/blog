@@ -19,11 +19,11 @@ Weka can be easily installed on any type of platform by following the instructio
 
 Once installed Weka, you will have a set of standard data processing and inference techniques such as:
 
--   ***Data Pre-processing***: once loaded a dataset, Weka enables us to quickly explore it's attributes and instances. Additionally, different filtering techniques are available in order to for example convert categorical data into numerical or perform [feature selection](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784) in order to reduce the dimensionality of our dataset (eg. to speed up training times and performance).
--   ***Classification and Regression Algorithms: ***a collection of different algorithms such as Gaussian Naive Bayes, Decision Trees, K-Nearest Neighbour, Ensembles techniques and various linear regression variants.
+-   ***Data Pre-processing:*** once loaded a dataset, Weka enables us to quickly explore it's attributes and instances. Additionally, different filtering techniques are available in order to for example convert categorical data into numerical or perform [feature selection](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784) in order to reduce the dimensionality of our dataset (eg. to speed up training times and performance).
+-   ***Classification and Regression Algorithms:*** a collection of different algorithms such as Gaussian Naive Bayes, Decision Trees, K-Nearest Neighbour, Ensembles techniques and various linear regression variants.
 -   ***Clustering:*** this technique can be used in order to identify main categories in our data in an unsupervised way. Some examples algorithms available in the Weka collection are K-Means Clustering and Expectation Maximisation.
 -   ***Discovering Associations:*** discovering rules in our dataset in order to more easily identify patterns and connections between the different features.
--   ***Data Visualisation: ***a suite of integrated data visualisation techniques to quickly visualise correlations between features and represent learned machine learning patterns such as Decision Trees and K-Means Clustering.
+-   ***Data Visualisation:*** a suite of integrated data visualisation techniques to quickly visualise correlations between features and represent learned machine learning patterns such as Decision Trees and K-Means Clustering.
 
 Another interesting feature of Weka, is the possibility to install new packages as they are created. One example of additional installation package is AutoML. AutoML can in fact be particularly useful for beginners which might find difficult to identify what Machine Learning model might be best to use for a specific task. Using Weka AutoML package, different Machine Learning models can be easily tested on the fly and it's [hyper-parameters](https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d) automatically tuned in order to increase performances.
 
