@@ -3,9 +3,9 @@ layout: post
 permalink: /blog41/
 ---
 
-# Weka Tutorial – GUI-based Machine Learning with Java
-
 ![Weka Tutorial -- GUI-based Machine Learning with Java](https://www.freecodecamp.org/news/content/images/size/w2000/2020/05/weka-1.png)
+
+# Weka Tutorial – GUI-based Machine Learning with Java
 
 ## Introduction
 
