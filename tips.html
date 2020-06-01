@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="posts">
+
+  {% assign sorted = site.tips | reverse %}
+  {% for item in sorted %}
+  <article class="post">
+    <h1><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h1>
+  </article>
+  {% endfor %}
+</div>

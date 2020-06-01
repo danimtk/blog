@@ -46,3 +46,21 @@ Figure 2: Naive Bayes Classification Results
 ## Conclusion
 
 In case you are looking for more information about how to get started with Weka, [this YouTube series](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) by Google Developers is a great place where to start.
+
+## Contacts
+
+If you want to keep updated with my latest articles and projects [follow me on Medium](https://medium.com/@pierpaoloippolito28?source=post_page---------------------------) and subscribe to my [mailing list](http://eepurl.com/gwO-Dr?source=post_page---------------------------). These are some of my contacts details:
+
+* [Linkedin](https://uk.linkedin.com/in/pier-paolo-ippolito-202917146?source=post_page---------------------------)
+
+* [Personal Blog](https://pierpaolo28.github.io/blog/?source=post_page---------------------------)
+
+* [Personal Website](https://pierpaolo28.github.io/?source=post_page---------------------------)
+
+* [Patreon](https://www.patreon.com/user?u=32155890)
+
+* [Medium Profile](https://towardsdatascience.com/@pierpaoloippolito28?source=post_page---------------------------)
+
+* [GitHub](https://github.com/pierpaolo28?source=post_page---------------------------)
+
+* [Kaggle](https://www.kaggle.com/pierpaolo28?source=post_page---------------------------)
