@@ -1,290 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
-<url>
-  <loc>https://pierpaolo28.github.io/blog/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/about/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog11/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog10/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog9/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page2/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page3/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page4/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page5/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page6/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page7/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page8/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page9/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page10/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page11/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page12/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page13/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog/page14/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog8/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog7/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog6/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog5/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog4/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog3/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog2/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog1/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog12/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog13/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog14/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog15/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog16/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog17/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog18/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog19/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog20/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog21/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog22/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog23/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog24/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog25/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog26/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog27/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog28/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog29/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog30/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog31/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog32/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog33/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog34/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog35/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog36/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog37/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog38/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog39/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog40/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pierpaolo28.github.io/blog/blog41/</loc>
-  <lastmod>2019-07-17T12:15:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/about/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog11/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog10/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog9/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page2/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page3/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page4/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page5/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page6/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page7/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page8/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page9/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page10/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page11/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page12/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page13/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog/page14/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog8/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog7/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog6/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog5/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog4/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog3/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog2/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog1/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog12/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog13/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog14/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog15/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog16/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog17/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog18/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog19/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog20/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog21/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog22/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog23/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog24/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog25/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog26/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog27/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog28/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog29/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog30/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog31/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog32/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog33/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog34/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog35/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog36/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog37/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog38/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog39/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog40/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/blog41/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/Overleaf-Git-Control/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 </urlset>
