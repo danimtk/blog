@@ -34,17 +34,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{site.title}}</h2>
-      {% if site.github.is_project_page %}
-        <a href="/blog/" class="btn">Home</a>
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        <a href="https://open.spotify.com/show/3wYET5Pa8u95zxiEl3I42K" class="btn">Podcast</a>
-        <a href="{{ site.baseurl }}{% link feed.xml %}" class="btn" >RSS Feed</a>
-        <a href="{{ site.baseurl }}{% link about.md %}" class="btn" >About</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+		<a href="{{ site.baseurl }}{% link index.html %}" class="btn">Home</a>
+		<a href="https://github.com/pierpaolo28/blog" class="btn">View on GitHub</a>
+		<a href="https://open.spotify.com/show/3wYET5Pa8u95zxiEl3I42K" class="btn">Podcast</a>
+		<a href="{{ site.baseurl }}{% link feed.xml %}" class="btn" >RSS Feed</a>
+		<a href="{{ site.baseurl }}{% link about.md %}" class="btn" >About</a>
     </header>
 
     <main id="content" class="main-content" role="main">

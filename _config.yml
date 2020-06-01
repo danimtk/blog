@@ -11,8 +11,7 @@ permalink: /blog/
 
 plugins:
   - jekyll-seo-tag
-   
-gems:
+  - jekyll-paginate
   - jekyll-feed
   
 paginate: 3
