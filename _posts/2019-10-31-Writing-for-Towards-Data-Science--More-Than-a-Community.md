@@ -19,12 +19,12 @@ on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</span>
 ### Introduction
 
 I am now about to start my eight-month as a writer for Towards Data Science
-(TDS) and today I decided to take a look at my journey so far. 
+(TDS) and today I decided to take a look at my journey so far.
 
 Having a PhD in order to work in Data Science, especially in research, seems to
 be nowadays more and more a necessity. Therefore, at the beginning of this year,
 I also considered this opportunity and I decided to write a research proposal
-and apply for a position. 
+and apply for a position.
 
 One month after, I had been offered the role.
 
@@ -48,7 +48,7 @@ Einstein](https://www.brainyquote.com/authors/albert-einstein-quotes)**).**
 * Recording my journey.
 * Making new connections.
 * Challenging myself to learn something new every day.
-* Giving something back to the community. 
+* Giving something back to the community.
 
 I will now walk you through some suggestions on what kind of article to write
 for Towards Data Science and how to best edit them.
@@ -56,7 +56,7 @@ for Towards Data Science and how to best edit them.
 ### The Writer’s Block
 
 One of the main concerns someone can have when thinking about starting writing
-are: 
+are:
 
 * Are my writing skills good enough to make my story publishable?
 * Is the topic of my article worth publishing?
@@ -69,7 +69,7 @@ Bach](https://en.wikipedia.org/wiki/Richard_Bach):
 > — Richard Bach
 
 Therefore, only writing and getting feedback from editors and readers we can be
-able to improve ourself and our communication abilities. 
+able to improve ourself and our communication abilities.
 
 Each story submitted to Towards Data Science is first reviewed from an editor
 before being published. In this way, the publication can ensure that just the
@@ -78,7 +78,7 @@ their stories. Additionally, TDS also provides general support in case a writer
 is looking for any general advice on how to improve their writing.
 
 In order to answer the second question, I always ask myself 3 questions before
-start writing a story: 
+start writing a story:
 
 * How can my story benefit to my readers? (empowering them)
 * If I were to research this topic online, how difficult it would be for me to
@@ -153,7 +153,7 @@ Repository](https://archive.ics.uci.edu/ml/index.php) and
 
 Adding interactive graphs and GIF animations can be another way to add value to
 your article, as the reader can be able to change himself some of the parameters
-of the animation. 
+of the animation.
 
 An example of interesting Data Visualization can be the GIF below. From Figure 1
 we can, in fact, be able to visualize how the variance of the 3 principal
@@ -173,8 +173,7 @@ Feel free to play with the graph below by changing the *n_estimators*
 parameters, zooming in and out of the graph, changing it’s orientation and
 hovering over the single data points to get additional information about them!
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/13.embed"></iframe>
-<span class="figcaption_hack">Figure 2: Interactive Data Visualization</span>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~pierpaolo28/13.embed"></iframe><span class="figcaption_hack">Figure 2: Interactive Data Visualization</span>
 
 If you are looking for a bit of context on how I created these two animations,
 more information is available in my [Interactive Data

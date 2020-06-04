@@ -13,7 +13,7 @@ permalink: /blog42/
 
 During the last few years, [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and a team of researchers started working on a revolutionary new type of neural network based on Capsules.
 
-Some of the main motivations behind this study are that current neural networks like [Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network) are able to achieve the state of the art accuracy in [computer vision](https://towardsdatascience.com/roadmap-to-computer-vision-79106beb8be4) tasks such as object detection only if provided a large amount of data. 
+Some of the main motivations behind this study are that current neural networks like [Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network) are able to achieve the state of the art accuracy in [computer vision](https://towardsdatascience.com/roadmap-to-computer-vision-79106beb8be4) tasks such as object detection only if provided a large amount of data.
 
 One of the main reason why models like CNNs require such a large amount of data is their inability to capture orientational and spatial relationships between the different elements which compose an image. In fact, one of the main techniques used in order to improve CNNs performances is Data Augmentation. When applying Data Augmentation, we help our model learn more in-depth and in a more general way what characterises different objects by creating additional data from the original one by for example rotating, cropping, flipping, etc… the original images. In this way, our model will more likely be able to recognise the same object even if seen from a different perspective (Figure 1).
 
@@ -25,7 +25,7 @@ CNNs are able to detect objects by first identifying edges and shapes in an imag
 
 ## Capsules
 
-Geoffrey Hinton approach of using Capsules closely follow instead the principle of Inverse Graphic. In fact, according to Hinton, every time our brain processes a new object, its representation does not depend on the viewing angle. Therefore, in order to create models able to perform object recognition as good as our brain can do, we need to be able to capture the hierarchical relationship of the different parts which compose an object and relate them with respect to a frame of coordinates. 
+Geoffrey Hinton approach of using Capsules closely follow instead the principle of Inverse Graphic. In fact, according to Hinton, every time our brain processes a new object, its representation does not depend on the viewing angle. Therefore, in order to create models able to perform object recognition as good as our brain can do, we need to be able to capture the hierarchical relationship of the different parts which compose an object and relate them with respect to a frame of coordinates.
 
 This can be achieved by basing our network on a structure called Capsule. A capsule is a data structure incorporating in a vector form all the main information of the feature we are detecting. Its main constituents are:
 
@@ -51,7 +51,7 @@ In Capsule Networks, the different neurons compete with each other in order to f
 
 * Mixture Models.
 
-As shown in Figure 2, basing our system on understanding objects on the grounds of geometric relationships we can then enable our model to be able to reliably detect an object (even if captured from a different point of view or under different light conditions) providing just one instance of it during training (no Data Augmentation needed). 
+As shown in Figure 2, basing our system on understanding objects on the grounds of geometric relationships we can then enable our model to be able to reliably detect an object (even if captured from a different point of view or under different light conditions) providing just one instance of it during training (no Data Augmentation needed).
 
 ![Figure 2: Object Detection from different points of view [2]](https://cdn-images-1.medium.com/max/2000/1*gHnUO-A3vYj0qtqHXSkGPw.png)
 
@@ -83,6 +83,7 @@ If you are interested in finding out more about Stacked Capsule Networks, additi
 
 Video 1: AAAI 2020 Turing Awards
 
+*****
 *I hope you enjoyed this article, thank you for reading!*
 
 ## Contacts
