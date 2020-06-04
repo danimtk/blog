@@ -47,8 +47,8 @@ in order to keep track of different Software Agents.
 
 > A Kalman Filter is an iterative mathematical process which uses a set of
 > equations and consecutive data inputs in order to estimate the true position,
-velocity, etc… of an object when the measured values contain uncertainties or
-errors. [1]
+> velocity, etc… of an object when the measured values contain uncertainties or
+> errors. [1]
 
 Kalman FIlters can, therefore, be simplistically compared to Machine Learning
 models. They take some input data, perform some calculations in order to make an
@@ -70,9 +70,7 @@ This process is briefly summarised in Figure 2.
 
 There exist different varieties of Kalman Filters, some examples are: linear
 Kalmar Filter, Extended Kalman filter and Unscented Kalman Filter. If you are
-interested in a more detailed mathematical explanation of Kalman Filters, [this
-](http://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf)tutorial
-by MIT Tony Lacey is a great place where to start [2].
+interested in a more detailed mathematical explanation of Kalman Filters, [this](http://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf) tutorial by MIT Tony Lacey is a great place where to start [2].
 
 One of the main problems of Kalman Filters is that they can only be used in
 order to model situations which can be described in terms of Gaussian Noises.

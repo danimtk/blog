@@ -7,7 +7,7 @@ permalink: /blog6/
 <span class="figcaption_hack">(Source
 =[https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f))</span>
 
-### SVM: Feature Selection and Kernels
+### SVM: Feature Selection and Kernels
 
 > A Support Vector Machine (SVM) is a supervised machine learning algorithm that can be employed for both classification and regression purposes.
 
@@ -48,11 +48,11 @@ Soft Margin SVM can be implemented in Scikit-Learn by adding a C penalty term in
 
 ### Kernel Trick
 
-If the data we are working with is not linearly separable (therefore leading to poor linear SVM classification results), it is possible to apply a technique known as the Kernel Trick. This method is able to map our non-linear separable data into a higher dimensional space, making our data linearly separable. Using this new dimensional space SVM can then be easily implemented (Figure 3). 
+If the data we are working with is not linearly separable (therefore leading to poor linear SVM classification results), it is possible to apply a technique known as the Kernel Trick. This method is able to map our non-linear separable data into a higher dimensional space, making our data linearly separable. Using this new dimensional space SVM can then be easily implemented (Figure 3). 
 
 ![](https://cdn-images-1.medium.com/max/2000/1*zWzeMGyCc7KvGD9X8lwlnQ.png)
 
-Figure 3: Kernel Trick [3]
+Figure 3: Kernel Trick [3]
 
 There are many different types of Kernels which can be used to create this higher dimensional space, some examples are linear, polynomial, Sigmoid and Radial Basis Function (RBF). In Scikit-Learn a Kernel function can be specified by adding a kernel parameter in `svm.SVC`. An additional parameter called gamma can be included to specify the influence of the kernel on the model.
 
@@ -62,7 +62,7 @@ When working with a large amount of data using RBF, speed might become a constra
 
 ### Feature Selection
 
-Once having fitted our linear SVM it is possible to access the classifier coefficients using `.coef_` on the trained model. These weights figure the orthogonal vector coordinates orthogonal to the hyperplane. Their direction represents instead the predicted class.
+Once having fitted our linear SVM it is possible to access the classifier coefficients using `.coef_` on the trained model. These weights figure the orthogonal vector coordinates orthogonal to the hyperplane. Their direction represents instead the predicted class.
 
 Feature importance can, therefore, be determined by comparing the size of these coefficients to each other. By looking at the SVM coefficients it is, therefore, possible to identify the main features used in classification and get rid of the not important ones (which hold less variance).
 
@@ -72,11 +72,11 @@ In Figure 4 are shown the main features I identified using SVM on the Pima India
 
 ![](https://cdn-images-1.medium.com/max/2600/1*da24RNaZz56cZVcgI2SC5w.png)
 
-Figure 4: Feature Importance using SVM
+Figure 4: Feature Importance using SVM
 
 ### Mathematics
 
-If you would like to dig into the Mathematics behind SVM, I have left here a lecture from Patrick Winston available on the MIT OpenCourseWare YouTube channel [4]. This lecture illustrates how to derive the SVM decision rules and which mathematical constraints are to apply using Lagrangian Multipliers. 
+If you would like to dig into the Mathematics behind SVM, I have left here a lecture from Patrick Winston available on the MIT OpenCourseWare YouTube channel [4]. This lecture illustrates how to derive the SVM decision rules and which mathematical constraints are to apply using Lagrangian Multipliers. 
 
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PwhiWxHK8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
