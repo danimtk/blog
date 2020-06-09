@@ -313,4 +313,25 @@
     <lastmod>2019-07-17T12:15:32+00:00</lastmod>
     <priority>0.64</priority>
   </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/Julia-For-Jupyter-Lab/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/Anaconda-Management/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/Windows-Linux-Subsystem/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://pierpaolo28.github.io/blog/tips/EC2-Amazon-Web-Services-Set-up/</loc>
+    <lastmod>2019-07-17T12:15:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <!-- <url> <loc>https://pierpaolo28.github.io/blog/tips/Latex-Useful-Snippets/</loc> <lastmod>2019-07-17T12:15:32+00:00</lastmod> <priority>0.64</priority> </url> -->
 </urlset>

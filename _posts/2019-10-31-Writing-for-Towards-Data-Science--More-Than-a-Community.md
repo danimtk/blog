@@ -199,11 +199,8 @@ checklist](https://towardsdatascience.com/post-for-writers-2-ebd32d1fac21).
 #### TDS Submission
 
 In order to submit your first article for Towards Data Science, all you have to
-do is write a draft on Medium and send an email to
-publication@towardsdatascience.com including a link to your draft. Then the
-publication will review your article and come back to you. More information
-about the process is available
-[here](https://towardsdatascience.com/questions-96667b06af5).
+do is write a draft on Medium and read the guidelines available [here](https://towardsdatascience.com/questions-96667b06af5). Then the
+publication will review your article and come back to you.
 
 Additionally, Towards Data Science also recently launched a YouTube channel on
 which you can contribute to creating your own video tutorials (as I did for my
