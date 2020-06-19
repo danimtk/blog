@@ -40,6 +40,19 @@ If finally we want at a later date to shut down our App, we can just run the fol
 tmux a -t example_session
 ```
 
+Tmux useful commands:
+
+```
+# List active tmux sessions
+tmux ls
+
+# Attach to an open session to make updates
+tmux attach -t stream
+```
+
+
+Additional information about tmux is available at [this link.](https://danielmiessler.com/study/tmux/#:~:text=Show%20existing%20sessions,shortcut%20ctrl%E2%80%93b%E2%80%93s.)
+
 ## Additional References
 
 [1] [Deploying Streamlit app to EC2 instance](https://medium.com/@pokepim/deploying-streamlit-app-to-ec2-instance-7a7edeffbb54)

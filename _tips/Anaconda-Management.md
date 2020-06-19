@@ -40,6 +40,13 @@ conda env remove --name {name of env to delete}
 conda update conda
 ```
 
+### Check conflicts between Packages
+
+```
+pip install pip-conflict-checker
+pipconflictchecker
+```
+
 ### Extras
 Some additional features which can be added to Jupyter Lab and Jupyter Notebook in Anaconda are the addition of extensions and Kernels for coding in other programming languages apart from Python (eg. R, Julia, Scala).
 
